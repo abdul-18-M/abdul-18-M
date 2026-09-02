@@ -1,18 +1,13 @@
 <div align="center">
 
-<!-- ==================== ANIMATED HEADER ==================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&repeat=true&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Aspiring+Frontend+Developer;Aspiring+Backend+Developer;MERN+Stack+Developer;JavaScript+Developer;Building+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Developer Roles"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&repeat=true&lines=Full+Stack+Developer;Aspiring+Frontend+Developer;Aspiring+Backend+Developer;MERN+Stack+Developer;JavaScript+Developer;Building+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Developer Roles"/>
 
 </div>
+
 
 ---
 
