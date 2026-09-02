@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to my Profile&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
@@ -15,6 +15,12 @@
 
 <!-- ROLES -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=70&pause=1600&color=9B8CFF&center=true&vCenter=true&width=800&repeat=true&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Developer Roles"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 <br><br>
 
