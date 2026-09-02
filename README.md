@@ -113,33 +113,55 @@ alt="Developer Animation"
 
 <br>
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,python,js" alt="Programming Languages"/>
-
-<br><br>
-
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
+alt="HTML5 CSS3 JavaScript Tailwind CSS React"
+/>
+
+<br>
+
+**HTML5 • CSS3 • JavaScript • Tailwind CSS • React**
 
 <br><br>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,flask"
+alt="Node.js Express.js Flask"
+/>
+
+<br>
+
+**Node.js • Express.js • Flask**
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Databases"/>
+<img
+src="https://skillicons.dev/icons?i=mongodb,postgresql"
+alt="MongoDB PostgreSQL"
+/>
+
+<br>
+
+**MongoDB • PostgreSQL**
 
 <br><br>
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode"
+alt="Git GitHub VS Code"
+/>
+
+<br>
+
+**Git • GitHub • VS Code**
 
 </div>
 
@@ -175,14 +197,14 @@ alt="Developer Animation"
 <td width="42%" align="center">
 
 <img
-src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=900&q=80"
+src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1000&q=85"
 width="95%"
-alt="Beautiful Train"
+alt="Beautiful Railway Train"
 />
 
 <br><br>
 
-### 🚆 Railway Ticket System
+### 🚆 Railway Ticket Management
 
 </td>
 
@@ -194,7 +216,7 @@ A railway ticket management system designed to handle ticket-related operations 
 
 ### 🛠️ Technologies
 
-`HTML` `CSS` `JavaScript`
+`HTML5` `CSS3` `JavaScript`
 `Node.js` `Express.js` `MongoDB`
 
 ### ✨ Features
@@ -229,7 +251,7 @@ A web-based blood donation management system designed to manage **blood donors a
 
 ### 🛠️ Technologies
 
-`HTML` `CSS` `JavaScript`
+`HTML5` `CSS3` `JavaScript`
 `Flask` `SQL`
 
 ### ✨ Features
@@ -287,7 +309,7 @@ alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6"
 width="40%"
 alt="Top Languages"
 />
@@ -308,31 +330,7 @@ alt="GitHub Streak"
 
 <!-- ========================================================= -->
 
-<!--                       🏆 TROPHIES                          -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br>
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-width="90%"
-alt="GitHub Trophies"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    🧠 CURRENT LEARNING                     -->
+<!--                    🧠 CURRENT LEARNING                    -->
 
 <!-- ========================================================= -->
 
@@ -366,30 +364,6 @@ alt="Learning Animation"
 
 <!-- ========================================================= -->
 
-<!--                  📈 CONTRIBUTION GRAPH                    -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 📈 My Contribution Journey
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-18-m&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="Contribution Graph"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
 <!--                    🤝 LET'S CONNECT                        -->
 
 <!-- ========================================================= -->
@@ -406,28 +380,25 @@ alt="Contribution Graph"
 
 <a href="https://linkedin.com/in/abdul18">
 <img
-src="https://cdn.simpleicons.org/linkedin/0A66C2"
-width="55"
+src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn"
 />
 </a>
 
-     
+    
 
 <a href="https://www.instagram.com/abdul.___.18">
 <img
-src="https://cdn.simpleicons.org/instagram/E4405F"
-width="55"
+src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="Instagram"
 />
 </a>
 
-     
+    
 
 <a href="https://leetcode.com/abdul_mulla">
 <img
-src="https://cdn.simpleicons.org/leetcode/FFA116"
-width="55"
+src="https://img.shields.io/badge/LeetCode-Abdul__Mulla-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
 alt="LeetCode"
 />
 </a>
