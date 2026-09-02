@@ -5,10 +5,7 @@
 <div align="center">
 
 <!-- WELCOME — APPEARS ONE TIME -->
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&font=JetBrains%20Mono&color=gradient"
-width="100%"
-alt="Welcome to My Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=gradient" width="100%" alt="Welcome to my profile"/>
 
 <br>
 
