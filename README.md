@@ -421,17 +421,15 @@ alt="LeetCode"
 
 <br>
 
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-width="70%"
-alt="Developer Quote"
-/>
+> **"Great developers don't protect their code — they improve it."**
 
-<br><br>
+<br>
 
-### 💻 Aspiring Full Stack Developer
+I believe that sharing code, accepting feedback, finding bugs, and learning from others helps us **build better software and grow faster.** 🚀
 
-**Building • Learning • Growing • One Line of Code at a Time 🚀**
+<br>
+
+### 🤝 Learn • Share • Improve • Build
 
 </div>
 
