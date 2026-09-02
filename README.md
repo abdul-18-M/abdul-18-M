@@ -1,165 +1,285 @@
+<!-- ========================================================= -->
+<!--                  🌌 PROFILE HEADER                        -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-  <!-- Top Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090a16,50:111736,100:090a16&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=32&fontColor=ffffff&fontAlignY=45&stroke=00bfff&strokeWidth=1" width="100%" />
+<!-- Beautiful animated background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
-  <br>
+<br>
 
-  <h2>Hi, I'm <font color="#a855f7">Abdul Mulla</font> 👋</h2>
+<!-- WELCOME — ANIMATES ONLY ONCE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=80&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&repeat=false&lines=WELCOME+TO+MY+PROFILE+%F0%9F%8C%9F" alt="Welcome to my profile"/>
 
-  <!-- Role Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/💻_Aspiring_Full_Stack_Developer-121632?style=for-the-badge&labelColor=121632&color=121632" />
-    <img src="https://img.shields.io/badge/🎨_Frontend_Developer-121632?style=for-the-badge&labelColor=121632&color=121632" />
-    <img src="https://img.shields.io/badge/⚙️_Backend_Developer-121632?style=for-the-badge&labelColor=121632&color=121632" />
-  </p>
+<br><br>
 
-  <!-- Profile Views Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=abdul-18-m&style=flat-square&color=0e7490&label=PROFILE+VIEWS" />
-  </p>
+<!-- NAME — ANIMATES ONLY ONCE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=80&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
+
+<br><br>
+
+<!-- ROLES — CONTINUOUSLY ANIMATE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=70&pause=1600&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=%F0%9F%92%BB+Aspiring+Full+Stack+Developer;%F0%9F%92%BB+Frontend+Developer;%F0%9F%92%BB+Backend+Developer" alt="Developer Roles"/>
+
+<br><br>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
 
 </div>
 
----
+<!-- ========================================================= -->
+<!--                     ✨ ABOUT ME                            -->
+<!-- ========================================================= -->
 
-<h3 align="center">✨ About Me</h3>
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>🙋‍♂️ Who Am I?</h4>
-      <p>Hi! I'm Abdul Mulla, a passionate developer from India who loves creating modern, responsive and user-friendly web applications.</p>
-      <p>I enjoy turning ideas into real-world projects and continuously improving my development and problem-solving skills.</p>
-      <br>
-      <h4>🚀 What I'm Doing</h4>
-      <ul>
-        <li>🌱 Learning Full Stack Development</li>
-        <li>💻 Building real-world projects</li>
-        <li>🧩 Practicing DSA & Problem Solving</li>
-        <li>🎨 Improving Frontend Development</li>
-        <li>⚙️ Exploring Backend Development</li>
-        <li>📚 Learning something new every day</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4487807-3728469.png" width="90%" />
-      <br><br>
-      <code>💡 Code &nbsp;•&nbsp; 📖 Learn &nbsp;•&nbsp; 🛠️ Build &nbsp;•&nbsp; 📈 Improve</code>
-    </td>
-  </tr>
+## ✨ About Me
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="55%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+Hi! I'm **Abdul Mulla**, a passionate developer from India who loves creating modern, responsive and user-friendly web applications.
+
+I enjoy turning ideas into real-world projects and continuously improving my development and problem-solving skills.
+
+<br>
+
+### 🚀 What I'm Doing
+
+- 🌱 Learning Full Stack Development
+- 💻 Building real-world projects
+- 🧠 Practicing DSA & Problem Solving
+- 🎨 Improving Frontend Development
+- ⚙️ Exploring Backend Development
+- 📚 Learning something new every day
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
+
+<br><br>
+
+**💡 Code • Learn • Build • Improve**
+
+</td>
+
+</tr>
 </table>
 
----
+<br>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<!-- ========================================================= -->
+<!--                    🧰 TECH STACK                           -->
+<!-- ========================================================= -->
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <b>💻 Languages</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" />
-    </td>
-    <td align="center" width="25%">
-      <b>🎨 Frontend</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" />
-    </td>
-    <td align="center" width="25%">
-      <b>⚙️ Backend & Database</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" />
-    </td>
-    <td align="center" width="25%">
-      <b>🛠️ Tools</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" /> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" />
-    </td>
-  </tr>
+<div align="center">
+
+## 🧰 Tech Stack
+
+<br>
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js" alt="Programming Languages"/>
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Technologies"/>
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    🚀 PROJECTS                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🩸 Blood Donation Management System
+
+</div>
+
+A web-based system created to manage blood donors and donation records.
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+
+`Flask`
+
+**Database**
+
+`SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚆 RailOne Ticket Management System
+
+</div>
+
+A railway ticket management system designed to handle ticket-related operations.
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Database**
+
+`MongoDB`
+
+</td>
+
+</tr>
 </table>
 
----
+<br><br>
 
-<h3 align="center">📌 Featured Projects</h3>
+<!-- ========================================================= -->
+<!--                     📊 GITHUB                             -->
+<!-- ========================================================= -->
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><font color="#f43f5e">🩸 Blood Donation Management System</font></h4>
-      <p>A web-based system created to manage blood donors and donation records.</p>
-      <br>
-      <p><b>Frontend:</b> <code>HTML</code> <code>CSS</code> <code>JS</code></p>
-      <p><b>Backend:</b> <code>Flask</code></p>
-      <p><b>Database:</b> <code>SQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><font color="#6366f1">🚆 RailOne Ticket Management System</font></h4>
-      <p>A railway ticket management system designed to handle ticket-related operations.</p>
-      <br>
-      <p><b>Frontend:</b> <code>HTML</code> <code>CSS</code> <code>JS</code></p>
-      <p><b>Backend:</b> <code>Node.js</code> <code>Express.js</code></p>
-      <p><b>Database:</b> <code>MongoDB</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+## 📊 GitHub Analytics
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-18-m&theme=tokyonight&hide_border=false" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="41%" alt="Top Languages"/>
 
----
+<br><br>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<img src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=20" width="65%" alt="GitHub Streak"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+</div>
 
----
+<br><br>
 
-<h3 align="center">🤝 Let's Connect</h3>
+<!-- ========================================================= -->
+<!--                       🏆 TROPHIES                          -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdul18">
-    <img src="https://img.shields.io/badge/LinkedIn-abdul18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/abdul.__18">
-    <img src="https://img.shields.io/badge/Instagram-abdul.__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/abdul_mulla">
-    <img src="https://img.shields.io/badge/LeetCode-abdul__mulla-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/abdul-18-m">
-    <img src="https://img.shields.io/badge/GitHub-abdul--18--m-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <i>"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."</i>
-</p>
+<br>
 
-<p align="center">
-  <b>Aspiring Full Stack Developer</b><br>
-  <code>Building</code> • <code>Learning</code> • <code>Growing</code> • <code>One Line of Code at a Time 🚀</code>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" alt="GitHub Trophies"/>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    🤝 CONNECT WITH ME                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
+<a href="https://linkedin.com/in/abdul18" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/abdul.___.18" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/abdul_mulla" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" height="50" alt="LeetCode"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/abdul-18-m" target="_blank">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/>
+</a>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    💭 DEVELOPER QUOTE                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Developer Quote"/>
+
+<br><br>
+
+### 💻 Aspiring Full Stack Developer
+
+**Building • Learning • Growing • One Line of Code at a Time 🚀**
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                       🌊 FOOTER                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt="Footer"/>
+
+</div>
