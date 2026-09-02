@@ -4,21 +4,31 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDUL%20MULLA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
+<!-- WELCOME — APPEARS ONE TIME -->
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&font=JetBrains%20Mono&color=gradient"
+width="100%"
+alt="Welcome to My Profile"/>
 
 <br>
 
-<!-- NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=80&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
+<!-- NAME — TYPES ONE TIME -->
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=80&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B"
+alt="Hi, I'm Abdul Mulla"/>
 
 <br><br>
 
-<!-- ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=70&pause=1600&color=9B8CFF&center=true&vCenter=true&width=800&repeat=true&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Developer Roles"/>
+<!-- ROLES — CONTINUOUS LOOP -->
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=70&pause=1600&color=9B8CFF&center=true&vCenter=true&width=800&repeat=true&lines=%F0%9F%92%BB+Aspiring+Full+Stack+Developer;%F0%9F%92%BB+Frontend+Developer;%F0%9F%92%BB+Backend+Developer"
+alt="Developer Roles"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
+<img
+src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00D9FF&style=flat-square"
+alt="Profile Views"/>
 
 </div>
 
