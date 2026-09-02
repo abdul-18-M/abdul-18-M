@@ -1,9 +1,4 @@
-<!-- ========================================================= -->
-
 <!--                    🌌 HERO SECTION                        -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img
@@ -39,11 +34,7 @@ alt="Profile Views"
 
 ---
 
-<!-- ========================================================= -->
-
 <!--                       👨‍💻 ABOUT ME                         -->
-
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -101,11 +92,8 @@ alt="Developer Animation"
 
 ---
 
-<!-- ========================================================= -->
 
 <!--                    🧰 TECH STACK                           -->
-
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -168,13 +156,7 @@ alt="Git GitHub VS Code"
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                    🚀 FEATURED PROJECTS                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## 🚀 Featured Projects
@@ -184,13 +166,7 @@ alt="Git GitHub VS Code"
 </div>
 
 <br>
-
-<!-- ========================================================= -->
-
 <!--                  🚆 RAILONE PROJECT                       -->
-
-<!-- ========================================================= -->
-
 <table align="center">
 <tr>
 
@@ -233,13 +209,7 @@ A railway ticket management system designed to handle ticket-related operations 
 </table>
 
 <br><br>
-
-<!-- ========================================================= -->
-
 <!--                🩸 BLOOD DONATION PROJECT                  -->
-
-<!-- ========================================================= -->
-
 <table align="center">
 <tr>
 
@@ -289,13 +259,7 @@ alt="Blood Donation Heart"
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                     📊 GITHUB STATS                       -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -327,13 +291,7 @@ alt="GitHub Streak"
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                    🧠 CURRENT LEARNING                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## 🧠 Currently Learning
@@ -361,13 +319,7 @@ alt="Learning Animation"
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                    🤝 LET'S CONNECT                        -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## 🤝 Let's Connect
@@ -385,16 +337,12 @@ alt="LinkedIn"
 />
 </a>
 
-    
-
 <a href="https://www.instagram.com/abdul.___.18">
 <img
 src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="Instagram"
 />
 </a>
-
-    
 
 <a href="https://leetcode.com/abdul_mulla">
 <img
@@ -408,13 +356,7 @@ alt="LeetCode"
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                    💭 DEVELOPER MINDSET                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## 💭 Developer Mindset
@@ -436,12 +378,7 @@ I believe that sharing code, accepting feedback, finding bugs, and learning from
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
 <!--                       🌊 FOOTER                            -->
-
-<!-- ========================================================= -->
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&animation=twinkling"
