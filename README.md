@@ -1,248 +1,272 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     🌟 HEADER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    🌌 HERO SECTION                        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7A5CFF,100:FF4ECD&height=150&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDUL%20MULLA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
 
-<br/>
+<br>
 
-<!-- 👋 NAME — ANIMATES ONCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
+<!-- NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=80&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B" alt="Hi, I'm Abdul Mulla"/>
 
-<br/><br/>
+<br><br>
 
-<!-- 💻 ROLES — CONTINUOUSLY CYCLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&repeat=true&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Developer Roles"/>
+<!-- ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=70&pause=1600&color=9B8CFF&center=true&vCenter=true&width=800&repeat=true&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Developer Roles"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     👨‍💻 ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ========================================================= -->
+<!--                     ✨ ABOUT ME                            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<p>
-I'm <b>Abdul Mulla</b>, a passionate developer from India who enjoys
-building modern, responsive and user-friendly web applications.
-</p>
+## ✨ About Me
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| 🚀 Currently | 🎯 Focus |
-|:---:|:---:|
-| Learning Full Stack Development | Frontend & Backend |
-| Building Real-World Projects | JavaScript & Web Development |
-| Practicing DSA | Problem Solving |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🛠️ TECHNOLOGIES                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Languages & Technologies</h2>
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
-</p>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🚀 PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="55%" valign="top">
 
-### 🩸 Blood Donation Management System
+### 👨‍💻 Who Am I?
 
-A web-based system designed to manage blood donors and donation records.
+Hi! I'm **Abdul Mulla**, a passionate developer from India who loves creating modern, responsive and user-friendly web applications.
 
-**Tech Stack**
+I enjoy turning ideas into real-world projects and continuously improving my development and problem-solving skills.
 
-`HTML` `CSS` `JavaScript`  
-`Flask` `SQL`
+<br>
+
+### 🚀 What I'm Doing
+
+- 🌱 Learning Full Stack Development
+- 💻 Building real-world projects
+- 🧠 Practicing DSA & Problem Solving
+- 🎨 Improving Frontend Development
+- ⚙️ Exploring Backend Development
+- 📚 Learning something new every day
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-### 🚆 RailOne Ticket Management System
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-A ticket management system for handling railway ticket-related operations.
+<br><br>
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express.js` `MongoDB`
+**💡 Code • Learn • Build • Improve**
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    📊 GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ========================================================= -->
+<!--                    🧰 TECH STACK                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+## 🧰 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="42%"/>
+<br>
 
-<br/><br/>
+### 💻 Languages
 
-<img src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-<br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     🏆 TROPHIES                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- ========================================================= -->
+<!--                    🚀 PROJECTS                             -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+## 🚀 Featured Projects
 
 </div>
 
-<br/>
+<table align="center">
+<tr>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🤝 CONNECT WITH ME                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🤝 Connect With Me</h2>
+<td width="50%" valign="top">
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdul18" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+### 🩸 Blood Donation Management System
+
+</div>
+
+A web-based system created to manage blood donors and donation records.
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+
+`Flask`
+
+**Database**
+
+`SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚆 RailOne Ticket Management System
+
+</div>
+
+A railway ticket management system designed to handle ticket-related operations.
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Database**
+
+`MongoDB`
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                     📊 GITHUB                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="41%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=20" width="65%"/>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                       🏆 TROPHIES                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    🤝 CONNECT                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
+<a href="https://linkedin.com/in/abdul18">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/abdul.___.18" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+<a href="https://www.instagram.com/abdul.___.18">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/abdul_mulla" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
+<a href="https://leetcode.com/abdul_mulla">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/abdul-18-m" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<a href="https://github.com/abdul-18-m">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="48" alt="GitHub"/>
 </a>
 
 </div>
 
-<br/><br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       💭 QUOTE                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    💭 DEVELOPER QUOTE                      -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-</div>
+<br><br>
 
-<br/>
+### 💻 Aspiring Full Stack Developer
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       🌊 FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💻 Full Stack Developer
-
-### 🚀 Building • Learning • Growing
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7A5CFF,100:FF4ECD&height=120&section=footer" width="100%"/>
+**Building • Learning • Growing • One Line of Code at a Time 🚀**
 
 </div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       🌊 FOOTER                            -->
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling" width="100%"/>
