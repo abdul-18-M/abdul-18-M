@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDUL%20MULLA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to my Profile&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
