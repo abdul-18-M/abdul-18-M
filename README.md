@@ -14,7 +14,7 @@ alt="Welcome to my profile"
 
 <br><br>
 
-<!-- NAME — ANIMATION PLAYS ONLY ONCE -->
+<!-- NAME — PLAYS ONLY ONCE -->
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=100&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I'm+Abdul+Mulla+%F0%9F%91%8B"
@@ -102,25 +102,17 @@ I love transforming ideas into real-world projects and continuously improving my
 
 <br>
 
-<!-- CODING IMAGE 1 -->
+<!-- SINGLE CODING ANIMATION -->
 
 <img
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="280"
+width="300"
 alt="Coding Animation"
 />
 
 <br><br>
 
-<!-- CODING IMAGE 2 -->
-
-<img
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-width="280"
-alt="Developer Coding"
-/>
-
-<br><br>
+<!-- DEVELOPER TYPING ANIMATION -->
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=320&lines=Turning+Ideas+Into+Code+%F0%9F%92%A1;Building+Real+Projects+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A"
@@ -278,23 +270,37 @@ alt="Developer Animation"
 
 <br>
 
-### 🌐 Frontend Development
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Frontend
+
+<br>
 
 <img
 src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
+width="300"
 alt="Frontend Technologies"
 />
 
 <br><br>
 
-**HTML5 • CSS3 • JavaScript • Tailwind CSS • React**
+**HTML5 • CSS3 • JavaScript**
+**Tailwind CSS • React**
 
-<br><br>
+</td>
 
-### ⚙️ Backend Development
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<br>
 
 <img
 src="https://skillicons.dev/icons?i=nodejs,express,flask"
+width="210"
 alt="Backend Technologies"
 />
 
@@ -302,12 +308,21 @@ alt="Backend Technologies"
 
 **Node.js • Express.js • Flask**
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 
+<br>
+
 <img
 src="https://skillicons.dev/icons?i=mongodb,postgresql"
+width="150"
 alt="Database Technologies"
 />
 
@@ -315,31 +330,69 @@ alt="Database Technologies"
 
 **MongoDB • PostgreSQL**
 
-<br><br>
+</td>
 
-### 💻 Languages
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+<br>
 
 <img
-src="https://skillicons.dev/icons?i=python,java,js"
+src="https://skillicons.dev/icons?i=cpp,python,java,js"
+width="250"
 alt="Programming Languages"
 />
 
 <br><br>
 
-**Python • Java • JavaScript • SQL**
+**C++ • Python • Java • JavaScript**
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🛠️ Tools
 
+<br>
+
 <img
 src="https://skillicons.dev/icons?i=git,github,vscode"
+width="210"
 alt="Developer Tools"
 />
 
 <br><br>
 
 **Git • GitHub • VS Code**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Development
+
+<br>
+
+<img
+src="https://skillicons.dev/icons?i=postman,npm"
+width="150"
+alt="Development Tools"
+/>
+
+<br><br>
+
+**Postman • npm**
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -643,7 +696,11 @@ alt="GitHub Activity"
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript">
+<img
+src="https://skillicons.dev/icons?i=js"
+width="60"
+alt="JavaScript"
+/>
 
 ### JavaScript
 
@@ -653,7 +710,11 @@ Deepening fundamentals
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=react" width="60" alt="React">
+<img
+src="https://skillicons.dev/icons?i=react"
+width="60"
+alt="React"
+/>
 
 ### React
 
@@ -663,7 +724,11 @@ Building interfaces
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js">
+<img
+src="https://skillicons.dev/icons?i=nodejs"
+width="60"
+alt="Node.js"
+/>
 
 ### Node.js
 
@@ -673,7 +738,11 @@ Backend development
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=express" width="60" alt="Express">
+<img
+src="https://skillicons.dev/icons?i=express"
+width="60"
+alt="Express"
+/>
 
 ### Express
 
@@ -683,7 +752,11 @@ REST APIs
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="60" alt="MongoDB">
+<img
+src="https://skillicons.dev/icons?i=mongodb"
+width="60"
+alt="MongoDB"
+/>
 
 ### MongoDB
 
