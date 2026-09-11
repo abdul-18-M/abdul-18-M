@@ -615,122 +615,61 @@ alt="Blood Donation Project"
 
 <br>
 
----
-<!-- ========================================================= -->
-<!--                    📊 TOP SKILLS                         -->
-<!-- ========================================================= -->
+## 🛠️ My Skills
 
-<div align="center">
+<div align="left">
 
-## 📊 Top Skills
+  <!-- Frontend Development -->
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
+      <span>Frontend Development</span>
+      <span>90%</span>
+    </div>
+    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
+      <rect width="90%" height="100%" fill="#FFD700" rx="6">
+        <animate attributeName="width" from="0%" to="90%" dur="1.5s" fill="freeze" />
+      </rect>
+    </svg>
+  </div>
 
-<br>
+  <!-- Backend Development -->
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
+      <span>Backend Development</span>
+      <span>80%</span>
+    </div>
+    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
+      <rect width="80%" height="100%" fill="#FFD700" rx="6">
+        <animate attributeName="width" from="0%" to="80%" dur="1.5s" fill="freeze" />
+      </rect>
+    </svg>
+  </div>
 
-<table align="center">
+  <!-- Full Stack Development -->
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
+      <span>Full Stack Development</span>
+      <span>80%</span>
+    </div>
+    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
+      <rect width="80%" height="100%" fill="#FFD700" rx="6">
+        <animate attributeName="width" from="0%" to="80%" dur="1.5s" fill="freeze" />
+      </rect>
+    </svg>
+  </div>
 
-<tr>
-
-<!-- ================= JAVASCRIPT ================= -->
-
-<td align="center" width="220">
-
-<img
-src="https://skillicons.dev/icons?i=javascript"
-width="75"
-alt="JavaScript"
-/>
-
-<br><br>
-
-### JavaScript
-
-<img
-src="https://progress-bar.dev/90/?title=90%25&width=250&color=f7df1e"
-width="180"
-alt="JavaScript 90%"
-/>
-
-</td>
-
-
-<!-- ================= REACT ================= -->
-
-<td align="center" width="220">
-
-<img
-src="https://skillicons.dev/icons?i=react"
-width="75"
-alt="React.js"
-/>
-
-<br><br>
-
-### React.js
-
-<img
-src="https://progress-bar.dev/85/?title=85%25&width=250&color=61dafb"
-width="180"
-alt="React.js 85%"
-/>
-
-</td>
-
-
-<!-- ================= DSA ================= -->
-
-<td align="center" width="220">
-
-<img
-src="https://skillicons.dev/icons?i=leetcode"
-width="75"
-alt="DSA"
-/>
-
-<br><br>
-
-### DSA
-
-<img
-src="https://progress-bar.dev/70/?title=70%25&width=250&color=ff6f00"
-width="180"
-alt="DSA 70%"
-/>
-
-</td>
-
-
-<!-- ================= NODE JS ================= -->
-
-<td align="center" width="220">
-
-<img
-src="https://skillicons.dev/icons?i=nodejs"
-width="75"
-alt="Node.js"
-/>
-
-<br><br>
-
-### Node.js
-
-<img
-src="https://progress-bar.dev/75/?title=75%25&width=250&color=339933"
-width="180"
-alt="Node.js 75%"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Loading+My+Skills...+%F0%9F%9A%80;JavaScript+%E2%86%92+90%25;React.js+%E2%86%92+85%25;DSA+%E2%86%92+70%25;Node.js+%E2%86%92+75%25"
-alt="Skills Loading"
-/>
+  <!-- DSA -->
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
+      <span>DSA</span>
+      <span>75%</span>
+    </div>
+    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
+      <rect width="75%" height="100%" fill="#FFD700" rx="6">
+        <animate attributeName="width" from="0%" to="75%" dur="1.5s" fill="freeze" />
+      </rect>
+    </svg>
+  </div>
 
 </div>
 
