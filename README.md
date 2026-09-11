@@ -635,10 +635,10 @@ alt="Blood Donation Project"
 <img src="https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### ⚛️ React.js
-<img src="https://img.shields.io/badge/React.js-85%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React.js-90%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### 🧠 DSA
-<img src="https://img.shields.io/badge/DSA-80%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-70%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </td>
 
@@ -648,7 +648,7 @@ alt="Blood Donation Project"
 <img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ### 🎨 CSS
-<img src="https://img.shields.io/badge/CSS-85%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-90%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### 🐍 Python
 <img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
@@ -675,26 +675,7 @@ alt="GitHub Streak"
 
 <br>
 
----
-<!-- ========================================================= -->
-<!--                    📈 ACTIVITY GRAPH                      -->
-<!-- ========================================================= -->
 
-<div align="center">
-
-## 📈 Coding Activity
-
-<br>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-18-m&theme=tokyonight"
-width="95%"
-alt="GitHub Coding Activity"
-/>
-
-</div>
-
-<br>
 
 ---
 
