@@ -615,61 +615,49 @@ alt="Blood Donation Project"
 
 <br>
 
-## 🛠️ My Skills
+---
 
-<div align="left">
+<!-- ========================================================= -->
+<!--                📊 TOP LANGUAGES & SKILLS                 -->
+<!-- ========================================================= -->
 
-  <!-- Frontend Development -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
-      <span>Frontend Development</span>
-      <span>90%</span>
-    </div>
-    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
-      <rect width="90%" height="100%" fill="#FFD700" rx="6">
-        <animate attributeName="width" from="0%" to="90%" dur="1.5s" fill="freeze" />
-      </rect>
-    </svg>
-  </div>
+<div align="center">
 
-  <!-- Backend Development -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
-      <span>Backend Development</span>
-      <span>80%</span>
-    </div>
-    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
-      <rect width="80%" height="100%" fill="#FFD700" rx="6">
-        <animate attributeName="width" from="0%" to="80%" dur="1.5s" fill="freeze" />
-      </rect>
-    </svg>
-  </div>
+## 📊 Top Languages & Skills
 
-  <!-- Full Stack Development -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
-      <span>Full Stack Development</span>
-      <span>80%</span>
-    </div>
-    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
-      <rect width="80%" height="100%" fill="#FFD700" rx="6">
-        <animate attributeName="width" from="0%" to="80%" dur="1.5s" fill="freeze" />
-      </rect>
-    </svg>
-  </div>
+<br>
 
-  <!-- DSA -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; width: 600px; margin-bottom: 5px; font-family: sans-serif; font-weight: bold; color: #ffffff;">
-      <span>DSA</span>
-      <span>75%</span>
-    </div>
-    <svg width="600" height="12" style="background: #2b2b2b; border-radius: 6px;">
-      <rect width="75%" height="100%" fill="#FFD700" rx="6">
-        <animate attributeName="width" from="0%" to="75%" dur="1.5s" fill="freeze" />
-      </rect>
-    </svg>
-  </div>
+<table>
+<tr>
+<td width="50%">
+
+### 🟨 JavaScript
+<img src="https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### ⚛️ React.js
+<img src="https://img.shields.io/badge/React.js-90%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+
+### 🧠 DSA
+<img src="https://img.shields.io/badge/DSA-70%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</td>
+
+<td width="50%">
+
+### 🌐 HTML
+<img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+### 🎨 CSS
+<img src="https://img.shields.io/badge/CSS-90%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 🐍 Python
+<img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
 
@@ -969,3 +957,6 @@ alt="Footer Animation"
 **Made with ❤️ • Code • Curiosity • Consistency**
 
 </div>
+
+
+in this code there is not showing the my languages logog make it to show it
