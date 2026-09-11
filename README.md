@@ -1,4 +1,9 @@
+<!-- ========================================================= -->
+
 <!--                    🌌 HERO SECTION                        -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img
@@ -17,7 +22,7 @@ alt="Hi, I'm Abdul Mulla"
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=70&pause=1500&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=%F0%9F%92%BB+Aspiring+Full+Stack+Developer;%F0%9F%8C%90+Frontend+Developer;%E2%9A%99%EF%B8%8F+Backend+Developer;%F0%9F%A7%A0+Problem+Solver"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=70&pause=1500&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%90+Frontend+Developer;%E2%9A%99%EF%B8%8F+Backend+Developer;%F0%9F%A7%A0+Problem+Solver"
 alt="Developer Roles"
 />
 
@@ -34,7 +39,11 @@ alt="Profile Views"
 
 ---
 
-<!--                       👨‍💻 ABOUT ME                         -->
+<!-- ========================================================= -->
+
+<!--                    👨‍💻 ABOUT ME                           -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -49,17 +58,17 @@ alt="Profile Views"
 
 <td width="60%" valign="top">
 
-I'm a passionate **Full Stack Developer** from India who enjoys building modern, responsive and user-friendly web applications.
+I'm a **Full Stack Developer** from India who enjoys building modern, responsive and user-friendly web applications.
 
-I love transforming ideas into real-world projects and continuously improving my **development, problem-solving and DSA skills**.
+I love turning ideas into real-world projects while continuously improving my **development, problem-solving and DSA skills**.
 
 ### 🚀 What I'm Doing
 
-* 🌱 Learning **Full Stack Development**
+* 🌱 Learning and improving **Full Stack Development**
 * 💻 Building real-world web applications
 * 🧠 Practicing **DSA & Problem Solving**
 * 🎨 Improving **Frontend Development**
-* ⚙️ Exploring **Backend Development**
+* ⚙️ Building and understanding **Backend APIs**
 * 📚 Learning something new every day
 
 ### 💡 My Philosophy
@@ -92,8 +101,11 @@ alt="Developer Animation"
 
 ---
 
+<!-- ========================================================= -->
 
-<!--                    🧰 TECH STACK                           -->
+<!--                    🧰 TECH STACK                          -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -101,16 +113,29 @@ alt="Developer Animation"
 
 <br>
 
-### 🌐 Frontend Development
+### 💻 Programming Languages
 
 <img
-src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
-alt="HTML5 CSS3 JavaScript Tailwind CSS React"
+src="https://skillicons.dev/icons?i=python,java,js"
+alt="Python Java JavaScript"
 />
 
 <br>
 
-**HTML5 • CSS3 • JavaScript • Tailwind CSS • React**
+`Python` • `Java` • `JavaScript` • `SQL`
+
+<br><br>
+
+### 🌐 Frontend Development
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
+alt="HTML CSS JavaScript Tailwind React"
+/>
+
+<br>
+
+`HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `React`
 
 <br><br>
 
@@ -118,12 +143,12 @@ alt="HTML5 CSS3 JavaScript Tailwind CSS React"
 
 <img
 src="https://skillicons.dev/icons?i=nodejs,express,flask"
-alt="Node.js Express.js Flask"
+alt="Node.js Express Flask"
 />
 
 <br>
 
-**Node.js • Express.js • Flask**
+`Node.js` • `Express.js` • `Flask`
 
 <br><br>
 
@@ -136,11 +161,11 @@ alt="MongoDB PostgreSQL"
 
 <br>
 
-**MongoDB • PostgreSQL**
+`MongoDB` • `PostgreSQL`
 
 <br><br>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <img
 src="https://skillicons.dev/icons?i=git,github,vscode"
@@ -149,14 +174,60 @@ alt="Git GitHub VS Code"
 
 <br>
 
-**Git • GitHub • VS Code**
+`Git` • `GitHub` • `VS Code`
 
 </div>
 
 <br>
 
 ---
-<!--                    🚀 FEATURED PROJECTS                    -->
+
+<!-- ========================================================= -->
+
+<!--                    🧭 DEVELOPER JOURNEY                   -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🧭 Developer Journey
+
+<br>
+
+🎓 **Computer Science Graduate**
+
+⬇️
+
+🌐 **Web Development**
+
+⬇️
+
+🎨 **Frontend Development**
+
+⬇️
+
+⚙️ **Backend Development**
+
+⬇️
+
+🚀 **Full Stack Development**
+
+⬇️
+
+🧠 **DSA & Problem Solving**
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    🚀 FEATURED PROJECTS                   -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🚀 Featured Projects
@@ -166,7 +237,9 @@ alt="Git GitHub VS Code"
 </div>
 
 <br>
-<!--                  🚆 RAILONE PROJECT                       -->
+
+<!-- ====================== RAILONE =========================== -->
+
 <table align="center">
 <tr>
 
@@ -175,12 +248,12 @@ alt="Git GitHub VS Code"
 <img
 src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1000&q=85"
 width="95%"
-alt="Beautiful Railway Train"
+alt="Railway Train"
 />
 
 <br><br>
 
-### 🚆 Railway Ticket Management
+### 🚆 RailOne Ticket System
 
 </td>
 
@@ -188,28 +261,67 @@ alt="Beautiful Railway Train"
 
 ## 🚆 RailOne Ticket Management System
 
-A railway ticket management system designed to handle ticket-related operations through a simple and user-friendly web interface.
+A full-stack railway ticket management system designed to simplify railway ticket-related operations through a clean and user-friendly web interface.
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `HTML5` `CSS3` `JavaScript`
 `Node.js` `Express.js` `MongoDB`
 
 ### ✨ Features
 
-* 🎫 Ticket Management
-* 👤 Passenger Information
-* 🚆 Railway Operations
+* 🎫 Ticket Booking & Management
+* 🚆 Train and City Information
+* 💰 Fare Calculation
+* 🎟️ Journey & Platform Tickets
+* 💳 UPI QR Payment
+* 🧾 Receipt Generation
+* 📜 Booking History
 * 🗄️ MongoDB Database
-* ⚡ Node.js + Express.js Backend
+
+<br>
+
+<a href="YOUR_RAILONE_REPOSITORY_LINK">
+<img
+src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="RailOne Source Code"
+/>
+</a>
+
+<a href="YOUR_RAILONE_LIVE_LINK">
+<img
+src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge"
+alt="RailOne Live Demo"
+/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<!-- ====================== RAILONE SCREENSHOT ================= -->
+
+<div align="center">
+
+### 📸 RailOne — Project Preview
+
+<!-- Replace the image below with your actual project screenshot -->
+
+<img
+src="YOUR_RAILONE_SCREENSHOT_LINK"
+width="85%"
+alt="RailOne Project Screenshot"
+/>
+
+</div>
+
 <br><br>
-<!--                🩸 BLOOD DONATION PROJECT                  -->
+
+<!-- ===================== BLOOD DONATION ====================== -->
+
 <table align="center">
 <tr>
 
@@ -217,25 +329,39 @@ A railway ticket management system designed to handle ticket-related operations 
 
 ## 🩸 Blood Donation Management System
 
-A web-based blood donation management system designed to manage **blood donors and donation records** efficiently.
+A web-based blood donation management system designed to efficiently manage **blood donors, donation records and blood stock**.
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `HTML5` `CSS3` `JavaScript`
 `Flask` `SQL`
 
 ### ✨ Features
 
-* 🩸 Donor Management
-* ❤️ Blood Donation Records
-* 👤 Donor Information
-* 🔎 Blood Information
+* 🩸 Donor Registration
+* 🔐 Donor Login
+* ❤️ Donation History
+* 📋 Pending / Approved / Rejected Requests
+* 👨‍💼 Admin Management
+* 🩸 Blood Stock Management
 * 🗄️ SQL Database
 * ⚡ Flask Backend
 
 <br>
 
-> ❤️ **Every Drop Can Save a Life**
+<a href="YOUR_BLOOD_DONATION_REPOSITORY_LINK">
+<img
+src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Blood Donation Source Code"
+/>
+</a>
+
+<a href="YOUR_BLOOD_DONATION_LIVE_LINK">
+<img
+src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge"
+alt="Blood Donation Live Demo"
+/>
+</a>
 
 </td>
 
@@ -244,12 +370,12 @@ A web-based blood donation management system designed to manage **blood donors a
 <img
 src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
 width="180"
-alt="Blood Donation Heart"
+alt="Blood Donation"
 />
 
 <br><br>
 
-### 🩸 ❤️
+### ❤️ Every Drop Can Save a Life
 
 </td>
 
@@ -259,7 +385,13 @@ alt="Blood Donation Heart"
 <br>
 
 ---
-<!--                     📊 GITHUB STATS                       -->
+
+<!-- ========================================================= -->
+
+<!--                    📊 GITHUB ANALYTICS                    -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -269,7 +401,7 @@ alt="Blood Donation Heart"
 <img
 src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"
 width="48%"
-alt="GitHub Stats"
+alt="GitHub Statistics"
 />
 
 <img
@@ -291,7 +423,13 @@ alt="GitHub Streak"
 <br>
 
 ---
-<!--                    🧠 CURRENT LEARNING                    -->
+
+<!-- ========================================================= -->
+
+<!--                    🧠 CURRENTLY LEARNING                  -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🧠 Currently Learning
@@ -299,19 +437,70 @@ alt="GitHub Streak"
 <br>
 
 <img
-src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react"
+src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb"
 alt="Currently Learning"
 />
 
 <br><br>
 
-### JavaScript • Node.js • Express.js • MongoDB • React
+|     Technology    | Focus                                      |
+| :---------------: | :----------------------------------------- |
+| 💻 **JavaScript** | Deepening fundamentals & advanced concepts |
+|    ⚛️ **React**   | Building interactive user interfaces       |
+|   🟢 **Node.js**  | Backend development                        |
+| 🚀 **Express.js** | REST APIs & server-side development        |
+|   🍃 **MongoDB**  | Database design & CRUD operations          |
+|     🧠 **DSA**    | Problem solving & interview preparation    |
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    🏆 ACHIEVEMENTS                        -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<br>
+
+<a href="https://github.com/abdul-18-m">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    📈 CONTRIBUTIONS                       -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 📈 Contribution Graph
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Mastering+JavaScript+%F0%9F%92%BB;Building+Full+Stack+Applications+%F0%9F%9A%80;Practicing+DSA+%F0%9F%A7%A0;Becoming+a+Better+Developer+Every+Day+%F0%9F%94%A5"
-alt="Learning Animation"
+src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-18-m&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
+alt="GitHub Contribution Graph"
 />
 
 </div>
@@ -319,7 +508,13 @@ alt="Learning Animation"
 <br>
 
 ---
-<!--                    🤝 LET'S CONNECT                        -->
+
+<!-- ========================================================= -->
+
+<!--                    🤝 LET'S CONNECT                       -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🤝 Let's Connect
@@ -328,7 +523,7 @@ alt="Learning Animation"
 
 ### 💬 Let's build something amazing together!
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/abdul18">
 <img
@@ -351,12 +546,25 @@ alt="LeetCode"
 />
 </a>
 
+<a href="mailto:YOUR_EMAIL">
+<img
+src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"
+/>
+</a>
+
 </div>
 
 <br>
 
 ---
-<!--                    💭 DEVELOPER MINDSET                    -->
+
+<!-- ========================================================= -->
+
+<!--                    💭 DEVELOPER MINDSET                   -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 💭 Developer Mindset
@@ -378,7 +586,44 @@ I believe that sharing code, accepting feedback, finding bugs, and learning from
 <br>
 
 ---
-<!--                       🌊 FOOTER                            -->
+
+<!-- ========================================================= -->
+
+<!--                    🐍 CONTRIBUTION SNAKE                  -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br>
+
+<!--
+To enable this section:
+Create a GitHub Actions workflow that generates:
+dist/github-contribution-grid-snake.svg
+
+Then replace YOUR_USERNAME below with your GitHub username.
+-->
+
+<img
+src="https://raw.githubusercontent.com/abdul-18-m/abdul-18-m/output/github-contribution-grid-snake.svg"
+width="95%"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       🌊 FOOTER                           -->
+
+<!-- ========================================================= -->
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&animation=twinkling"
