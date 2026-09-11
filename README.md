@@ -618,42 +618,50 @@ alt="Blood Donation Project"
 ---
 
 <!-- ========================================================= -->
-<!--                    📊 GITHUB ANALYTICS                    -->
+<!--                📊 TOP LANGUAGES & SKILLS                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 Top Languages & Skills
 
 <br>
 
-<!-- GITHUB PROFILE DETAILS -->
+<table>
+<tr>
+<td width="50%">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-18-m&theme=tokyonight"
-width="95%"
-alt="GitHub Profile Details"
-/>
+### 🟨 JavaScript
+<img src="https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br><br>
+### ⚛️ React.js
+<img src="https://img.shields.io/badge/React.js-85%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
 
-<!-- GITHUB STATS -->
+### 🧠 DSA
+<img src="https://img.shields.io/badge/DSA-80%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdul-18-m&theme=tokyonight"
-width="46%"
-alt="GitHub Statistics"
-/>
+</td>
 
-<!-- TOP LANGUAGES -->
+<td width="50%">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdul-18-m&theme=tokyonight"
-width="46%"
-alt="Top Languages"
-/>
+### 🌐 HTML
+<img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<br><br>
+### 🎨 CSS
+<img src="https://img.shields.io/badge/CSS-85%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 🐍 Python
+<img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
+
+---
 
 <!-- GITHUB STREAK -->
 
