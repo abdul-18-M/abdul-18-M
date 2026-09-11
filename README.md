@@ -616,48 +616,121 @@ alt="Blood Donation Project"
 <br>
 
 ---
-
 <!-- ========================================================= -->
-<!--                📊 TOP LANGUAGES & SKILLS                 -->
+<!--                    📊 TOP SKILLS                         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📊 Top Languages & Skills
+## 📊 Top Skills
 
 <br>
 
-<table>
+<table align="center">
+
 <tr>
-<td width="50%">
 
-### 🟨 JavaScript
-<img src="https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+<!-- ================= JAVASCRIPT ================= -->
 
-### ⚛️ React.js
-<img src="https://img.shields.io/badge/React.js-90%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+<td align="center" width="220">
 
-### 🧠 DSA
-<img src="https://img.shields.io/badge/DSA-70%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img
+src="https://skillicons.dev/icons?i=javascript"
+width="75"
+alt="JavaScript"
+/>
+
+<br><br>
+
+### JavaScript
+
+<img
+src="https://progress-bar.dev/90/?title=90%25&width=250&color=f7df1e"
+width="180"
+alt="JavaScript 90%"
+/>
+
+</td>
+
+
+<!-- ================= REACT ================= -->
+
+<td align="center" width="220">
+
+<img
+src="https://skillicons.dev/icons?i=react"
+width="75"
+alt="React.js"
+/>
+
+<br><br>
+
+### React.js
+
+<img
+src="https://progress-bar.dev/85/?title=85%25&width=250&color=61dafb"
+width="180"
+alt="React.js 85%"
+/>
 
 </td>
 
-<td width="50%">
 
-### 🌐 HTML
-<img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<!-- ================= DSA ================= -->
 
-### 🎨 CSS
-<img src="https://img.shields.io/badge/CSS-90%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+<td align="center" width="220">
 
-### 🐍 Python
-<img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+<img
+src="https://skillicons.dev/icons?i=leetcode"
+width="75"
+alt="DSA"
+/>
+
+<br><br>
+
+### DSA
+
+<img
+src="https://progress-bar.dev/70/?title=70%25&width=250&color=ff6f00"
+width="180"
+alt="DSA 70%"
+/>
 
 </td>
+
+
+<!-- ================= NODE JS ================= -->
+
+<td align="center" width="220">
+
+<img
+src="https://skillicons.dev/icons?i=nodejs"
+width="75"
+alt="Node.js"
+/>
+
+<br><br>
+
+### Node.js
+
+<img
+src="https://progress-bar.dev/75/?title=75%25&width=250&color=339933"
+width="180"
+alt="Node.js 75%"
+/>
+
+</td>
+
 </tr>
+
 </table>
 
 <br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Loading+My+Skills...+%F0%9F%9A%80;JavaScript+%E2%86%92+90%25;React.js+%E2%86%92+85%25;DSA+%E2%86%92+70%25;Node.js+%E2%86%92+75%25"
+alt="Skills Loading"
+/>
 
 </div>
 
