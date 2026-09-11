@@ -618,9 +618,7 @@ alt="Blood Donation Project"
 ---
 
 <!-- ========================================================= -->
-
 <!--                    📊 GITHUB ANALYTICS                    -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -629,19 +627,35 @@ alt="Blood Donation Project"
 
 <br>
 
+<!-- GITHUB PROFILE DETAILS -->
+
 <img
-src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true"
-width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-18-m&theme=tokyonight"
+width="95%"
+alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<!-- GITHUB STATS -->
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdul-18-m&theme=tokyonight"
+width="46%"
 alt="GitHub Statistics"
 />
 
+<!-- TOP LANGUAGES -->
+
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=6"
-width="40%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdul-18-m&theme=tokyonight"
+width="46%"
 alt="Top Languages"
 />
 
 <br><br>
+
+<!-- GITHUB STREAK -->
 
 <img
 src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=18"
@@ -654,11 +668,8 @@ alt="GitHub Streak"
 <br>
 
 ---
-
 <!-- ========================================================= -->
-
 <!--                    📈 ACTIVITY GRAPH                      -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -668,9 +679,9 @@ alt="GitHub Streak"
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-18-m&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-18-m&theme=tokyonight"
 width="95%"
-alt="GitHub Activity"
+alt="GitHub Coding Activity"
 />
 
 </div>
