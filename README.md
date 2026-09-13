@@ -28,20 +28,6 @@ alt="Developer Roles"
 
 <br><br>
 
-<a href="https://github.com/abdul-18-m">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://linkedin.com/in/abdul18">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://leetcode.com/abdul_mulla">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
-
-<br><br>
-
 <img
 src="https://komarev.com/ghpvc/?username=abdul-18-m&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
 alt="Profile Views"
