@@ -1,13 +1,13 @@
 <!-- ========================================================= -->
 
-<!--                    🌌 HERO SECTION                        -->
+<!--                  🌌 HERO SECTION                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=0:0F172A,50:312E81,100:0F172A"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=0:0F172A,50:312E81,100:0F172A"
 width="100%"
 alt="Welcome to my profile"
 />
@@ -25,20 +25,6 @@ alt="Hi, I'm Abdul Mulla"
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=Full+Stack+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0"
 alt="Developer Roles"
 />
-
-<br><br>
-
-<a href="https://github.com/abdul-18-m">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://linkedin.com/in/abdul18">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://leetcode.com/abdul_mulla">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
 
 <br><br>
 
@@ -66,37 +52,37 @@ alt="Profile Views"
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ### Hey there! 👋
 
 I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
 
-I enjoy creating useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
+I enjoy building useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
 
-### 🚀 What I Do
+### 🚀 What I'm Focused On
 
-* 💻 Build full-stack web applications
-* 🌐 Create responsive frontend interfaces
-* ⚙️ Develop backend APIs
-* 🗄️ Work with databases
-* 🧠 Practice DSA and problem solving
-* ⚛️ Learn and build with React
-* 🚀 Turn ideas into working projects
+* 💻 Full Stack Web Development
+* 🌐 Building modern web applications
+* ⚛️ Learning and improving React
+* ⚙️ Building backend APIs
+* 🗄️ Working with databases
+* 🧠 Practicing DSA and problem solving
+* 🚀 Turning ideas into real-world projects
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
 <img
-src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
-width="320"
-alt="Developer Animation"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="330"
+alt="Coding Animation"
 />
 
-<br>
+<br><br>
 
-<sub>⌨️ Code • Build • Debug • Repeat</sub>
+<sub>💻 Building • Debugging • Improving</sub>
 
 </td>
 
@@ -107,7 +93,7 @@ alt="Developer Animation"
 
 <!-- ========================================================= -->
 
-<!--                     🧰 TECH STACK                         -->
+<!--                    🧰 TECH STACK                          -->
 
 <!-- ========================================================= -->
 
@@ -119,37 +105,25 @@ alt="Developer Animation"
 
 ### 🌐 Frontend
 
-<img
-src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
-alt="Frontend"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies">
 
 <br><br>
 
 ### ⚙️ Backend
 
-<img
-src="https://skillicons.dev/icons?i=nodejs,express,flask"
-alt="Backend"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img
-src="https://skillicons.dev/icons?i=mongodb,postgresql"
-alt="Databases"
-/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Database Technologies">
 
 <br><br>
 
 ### 💻 Languages & Tools
 
-<img
-src="https://skillicons.dev/icons?i=python,java,git,github,vscode"
-alt="Languages and Tools"
-/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="Languages and Tools">
 
 </div>
 
@@ -157,7 +131,7 @@ alt="Languages and Tools"
 
 <!-- ========================================================= -->
 
-<!--                  🚀 FEATURED PROJECTS                     -->
+<!--                   🚀 FEATURED PROJECTS                    -->
 
 <!-- ========================================================= -->
 
@@ -194,10 +168,7 @@ A full-stack railway ticket management application designed to simplify railway 
 * 📜 Booking history
 
 <a href="YOUR_RAILONE_REPOSITORY_LINK">
-<img
-src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="RailOne Source"
-/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="RailOne Source">
 </a>
 
 </td>
@@ -224,7 +195,7 @@ alt="RailOne Railway Project"
 
 <img
 src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
-width="200"
+width="220"
 alt="Blood Donation"
 />
 
@@ -252,10 +223,7 @@ A web application for managing blood donors, donation records and blood stock.
 * 🗄️ SQL database
 
 <a href="YOUR_BLOOD_DONATION_REPOSITORY_LINK">
-<img
-src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="Blood Donation Source"
-/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blood Donation Source">
 </a>
 
 </td>
@@ -313,10 +281,7 @@ alt="GitHub Streak"
 
 <br>
 
-<img
-src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb"
-alt="Currently Learning"
-/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" alt="Currently Learning">
 
 <br><br>
 
@@ -332,7 +297,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                         🎯 GOALS                          -->
+<!--                       🎯 GOALS                            -->
 
 <!-- ========================================================= -->
 
@@ -342,22 +307,22 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <br>
 
-|     | Goal                                     |
-| :-: | :--------------------------------------- |
-|  🧠 | Improve DSA & Problem Solving            |
-|  ⚛️ | Become stronger with React               |
-|  ⚙️ | Build reliable Backend APIs              |
-| 🗄️ | Improve Database Knowledge               |
-|  🚀 | Build more Real-World Projects           |
-|  💼 | Start my Professional Development Career |
-
 </div>
+
+| Goal          | Focus                                             |
+| ------------- | ------------------------------------------------- |
+| 🧠 DSA        | Improve problem-solving skills                    |
+| ⚛️ React      | Build better frontend applications                |
+| ⚙️ Backend    | Build reliable APIs                               |
+| 🗄️ Databases | Improve database knowledge                        |
+| 🚀 Projects   | Build more real-world applications                |
+| 💼 Career     | Start my professional software development career |
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                  💭 DEVELOPER PHILOSOPHY                  -->
+<!--                    💭 PHILOSOPHY                          -->
 
 <!-- ========================================================= -->
 
@@ -379,7 +344,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                       🤝 CONNECT                          -->
+<!--                    🤝 CONNECT                             -->
 
 <!-- ========================================================= -->
 
@@ -390,24 +355,15 @@ Improving my frontend, backend and problem-solving skills through practical proj
 <br>
 
 <a href="https://linkedin.com/in/abdul18">
-<img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="LinkedIn"
-/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/abdul.___.18">
-<img
-src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-alt="Instagram"
-/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://leetcode.com/abdul_mulla">
-<img
-src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-alt="LeetCode"
-/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 </div>
@@ -418,7 +374,7 @@ alt="LeetCode"
 
 <!-- ========================================================= -->
 
-<!--                         🌊 FOOTER                         -->
+<!--                       🌊 FOOTER                           -->
 
 <!-- ========================================================= -->
 
