@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 
-<!--                       HERO SECTION                        -->
+<!--                    🌌 HERO SECTION                        -->
 
 <!-- ========================================================= -->
 
@@ -53,7 +53,7 @@ alt="Profile Views"
 
 <!-- ========================================================= -->
 
-<!--                        ABOUT ME                           -->
+<!--                     👨‍💻 ABOUT ME                         -->
 
 <!-- ========================================================= -->
 
@@ -66,37 +66,37 @@ alt="Profile Views"
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 ### Hey there! 👋
 
 I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
 
-I enjoy building useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
+I enjoy creating useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
 
-### 🚀 What I'm Focused On
+### 🚀 What I Do
 
-* 💻 Full Stack Web Development
-* 🌐 Building modern web applications
-* ⚛️ Learning and improving React
-* ⚙️ Building backend APIs
-* 🗄️ Working with databases
-* 🧠 Practicing DSA and problem solving
-* 🚀 Turning ideas into real-world projects
+* 💻 Build full-stack web applications
+* 🌐 Create responsive frontend interfaces
+* ⚙️ Develop backend APIs
+* 🗄️ Work with databases
+* 🧠 Practice DSA and problem solving
+* ⚛️ Learn and build with React
+* 🚀 Turn ideas into working projects
 
 </td>
 
-<td width="38%" align="center">
+<td width="40%" align="center">
 
 <img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="300"
-alt="Coding Animation"
+src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
+width="320"
+alt="Developer Animation"
 />
 
-<br><br>
+<br>
 
-<sub>💻 Build • Debug • Improve</sub>
+<sub>⌨️ Code • Build • Debug • Repeat</sub>
 
 </td>
 
@@ -107,7 +107,7 @@ alt="Coding Animation"
 
 <!-- ========================================================= -->
 
-<!--                       TECH STACK                         -->
+<!--                     🧰 TECH STACK                         -->
 
 <!-- ========================================================= -->
 
@@ -121,7 +121,7 @@ alt="Coding Animation"
 
 <img
 src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"
-alt="Frontend Technologies"
+alt="Frontend"
 />
 
 <br><br>
@@ -130,7 +130,7 @@ alt="Frontend Technologies"
 
 <img
 src="https://skillicons.dev/icons?i=nodejs,express,flask"
-alt="Backend Technologies"
+alt="Backend"
 />
 
 <br><br>
@@ -139,7 +139,7 @@ alt="Backend Technologies"
 
 <img
 src="https://skillicons.dev/icons?i=mongodb,postgresql"
-alt="Database Technologies"
+alt="Databases"
 />
 
 <br><br>
@@ -157,13 +157,15 @@ alt="Languages and Tools"
 
 <!-- ========================================================= -->
 
-<!--                    FEATURED PROJECTS                      -->
+<!--                  🚀 FEATURED PROJECTS                     -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
+
+<br>
 
 </div>
 
@@ -265,7 +267,7 @@ alt="Blood Donation Source"
 
 <!-- ========================================================= -->
 
-<!--                     GITHUB ANALYSIS                       -->
+<!--                    📊 GITHUB ANALYSIS                     -->
 
 <!-- ========================================================= -->
 
@@ -301,7 +303,7 @@ alt="GitHub Streak"
 
 <!-- ========================================================= -->
 
-<!--                    CURRENTLY LEARNING                     -->
+<!--                    🧠 CURRENTLY LEARNING                  -->
 
 <!-- ========================================================= -->
 
@@ -330,7 +332,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                         GOALS                             -->
+<!--                         🎯 GOALS                          -->
 
 <!-- ========================================================= -->
 
@@ -340,14 +342,14 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <br>
 
-| Goal | Focus                                    |
-| :--: | :--------------------------------------- |
-|  🧠  | Improve DSA & Problem Solving            |
-|  ⚛️  | Become stronger with React               |
-|  ⚙️  | Build reliable Backend APIs              |
-|  🗄️ | Improve Database Knowledge               |
-|  🚀  | Build more Real-World Projects           |
-|  💼  | Start my Professional Development Career |
+|     | Goal                                     |
+| :-: | :--------------------------------------- |
+|  🧠 | Improve DSA & Problem Solving            |
+|  ⚛️ | Become stronger with React               |
+|  ⚙️ | Build reliable Backend APIs              |
+| 🗄️ | Improve Database Knowledge               |
+|  🚀 | Build more Real-World Projects           |
+|  💼 | Start my Professional Development Career |
 
 </div>
 
@@ -355,7 +357,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                     DEVELOPER PHILOSOPHY                  -->
+<!--                  💭 DEVELOPER PHILOSOPHY                  -->
 
 <!-- ========================================================= -->
 
@@ -377,7 +379,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                       CONNECT                             -->
+<!--                       🤝 CONNECT                          -->
 
 <!-- ========================================================= -->
 
@@ -416,7 +418,7 @@ alt="LeetCode"
 
 <!-- ========================================================= -->
 
-<!--                         FOOTER                            -->
+<!--                         🌊 FOOTER                         -->
 
 <!-- ========================================================= -->
 
