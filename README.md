@@ -1,36 +1,35 @@
 <!-- ========================================================= -->
 
-<!--                 🌌 PREMIUM HERO SECTION                   -->
+<!--                     HERO SECTION                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ABDUL%20MULLA&fontSize=58&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=gradient"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDUL%20MULLA&fontSize=52&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=0:0F172A,50:312E81,100:0F172A"
 width="100%"
 alt="Abdul Mulla"
 />
 
+<h2>Full Stack Developer 💻</h2>
+
+<p>
+Building modern web applications with clean code, practical solutions and continuous learning.
+</p>
+
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=60&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&repeat=true&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;Frontend+%E2%86%94+Backend+%E2%86%94+Database;Turning+Ideas+Into+Working+Products+%F0%9F%92%A1"
-alt="Developer Introduction"
-/>
-
-<br><br>
-
 <a href="https://github.com/abdul-18-m">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/abdul18">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://leetcode.com/abdul_mulla">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 <br><br>
@@ -42,515 +41,153 @@ alt="Profile Views"
 
 </div>
 
-<br>
-
 ---
 
 <!-- ========================================================= -->
 
-<!--                    👨‍💻 WHO AM I?                         -->
+<!--                       ABOUT ME                            -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 👨‍💻 Who Am I?
-
-<br>
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### Hey there! 👋
-
-I'm **Abdul Mulla**, a **Full Stack Developer** passionate about building useful, responsive and interactive web applications.
-
-I enjoy working across the entire development process — from designing a frontend interface to building backend APIs and connecting databases.
-
-<br>
-
-### ⚡ My Development Mindset
-
-```text
-Think       → Understand the problem
-Build       → Write clean & simple code
-Debug       → Find what went wrong
-Improve     → Make it better
-Repeat      → Keep growing 🚀
-```
-
-</td>
-
-<td width="35%" align="center">
-
-<img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="300"
-alt="Coding"
-/>
-
-<br><br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=9B8CFF&center=true&vCenter=true&width=300&lines=Code.+Create.+Improve.;Always+Learning+%F0%9F%93%9A"
-alt="Mindset"
-/>
-
-</td>
-
-</tr>
-</table>
+## 👨‍💻 About Me
 
 </div>
 
-<br>
+Hi, I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
+
+I enjoy building useful and responsive web applications while learning how frontend, backend and databases work together.
+
+* 💻 Interested in **Full Stack Development**
+* 🌐 Building modern web applications
+* 🧠 Practicing **DSA and problem solving**
+* ⚛️ Learning and improving **React**
+* ⚙️ Working with backend APIs and databases
+* 🚀 Turning ideas into practical projects
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                     ⚡ QUICK PROFILE                      -->
+<!--                     TECH STACK                            -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## ⚡ Quick Profile
+## 🧰 Tech Stack
 
 <br>
 
-<table>
-<tr>
+### Frontend
 
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies">
 
-### 💻
+<br><br>
 
-**Developer**
+### Backend
 
-Full Stack
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 
-</td>
+<br><br>
 
-<td align="center" width="25%">
+### Databases
 
-### 🎓
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Database Technologies">
 
-**Education**
+<br><br>
 
-Computer Science
+### Languages & Tools
 
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Focus**
-
-DSA + Development
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Goal**
-
-Build Better Software
-
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="Languages and Tools">
 
 </div>
-
-<br>
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                    🧭 JOURNEY                             -->
+<!--                    FEATURED PROJECTS                      -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 🧭 My Developer Journey
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-🎓 <br>
-**Computer Science**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-🌐 <br>
-**Web Development**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-🎨 <br>
-**Frontend**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-⚙️ <br>
-**Backend**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-🚀 <br>
-**Full Stack**
-
-</td>
-
-</tr>
-</table>
+## 🚀 Featured Projects
 
 </div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    🧰 TECHNOLOGIES                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧰 Technologies I Work With
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Frontend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" width="300">
-
-<br><br>
-
-`HTML5` `CSS3` `JavaScript`
-`Tailwind CSS` `React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" width="210">
-
-<br><br>
-
-`Node.js` `Express.js` `Flask`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" width="150">
-
-<br><br>
-
-`MongoDB` `PostgreSQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Languages & Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" width="300">
-
-<br><br>
-
-`Python` `Java` `Git` `GitHub` `VS Code`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    💡 WHAT I BUILD                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 💡 What I Build
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-## 🌐
-
-### Web Apps
-
-Modern & responsive applications
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚛️
-
-### Interfaces
-
-Interactive frontend experiences
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚙️
-
-### APIs
-
-Backend & REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-## 🗄️
-
-### Data
-
-Database-driven applications
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    🚀 FEATURED PROJECTS                   -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-### Real projects • Real problems • Real learning
-
-</div>
-
-<br>
-
-<!-- ========================== RAILONE ======================= -->
-
-<table>
-<tr>
-
-<td width="48%" align="center">
-
-<img
-src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=90"
-width="100%"
-alt="RailOne Railway Project"
-/>
-
-<br><br>
 
 ### 🚆 RailOne Ticket System
 
-**Full Stack Web Application**
+A full-stack railway ticket management application designed to simplify railway ticket booking and related operations.
 
-</td>
+**Tech Stack**
 
-<td width="52%" valign="top">
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-### 🚆 RailOne
+**Features**
 
-A railway ticket management platform designed to simplify ticket booking and railway-related operations.
-
-<br>
-
-**🛠️ Stack**
-
-`HTML` `CSS` `JavaScript`
-`Node.js` `Express.js` `MongoDB`
-
-<br>
-
-**✨ Highlights**
-
-🎫 Ticket Management
-🚆 Train & City Information
-💰 Fare Calculation
-🎟️ Journey & Platform Tickets
-💳 UPI QR Payment
-🧾 Receipt Generation
-📜 Booking History
-
-<br>
+* 🎫 Ticket management
+* 🚆 Train and city information
+* 💰 Fare calculation
+* 🎟️ Journey and platform tickets
+* 💳 UPI QR payment
+* 🧾 Receipt generation
+* 📜 Booking history
 
 <a href="YOUR_RAILONE_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="RailOne Source">
 </a>
-
-<a href="YOUR_RAILONE_LIVE_LINK">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-00D9FF?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-</table>
 
 <br><br>
 
-<!-- ======================= BLOOD DONATION =================== -->
+---
 
-<table>
-<tr>
+### 🩸 Blood Donation Management System
 
-<td width="52%" valign="top">
+A web application for managing blood donors, donation records and blood stock.
 
-### 🩸 Blood Donation Management
+**Tech Stack**
 
-A web application created to manage donors, donation records and blood stock efficiently.
+`HTML` `CSS` `JavaScript` `Flask` `SQL`
 
-<br>
+**Features**
 
-**🛠️ Stack**
-
-`HTML` `CSS` `JavaScript`
-`Flask` `SQL`
-
-<br>
-
-**✨ Highlights**
-
-🩸 Donor Registration
-🔐 Donor Login
-❤️ Donation History
-📋 Request Management
-👨‍💼 Admin Controls
-🩸 Blood Stock Management
-🗄️ SQL Database
-
-<br>
+* 🩸 Donor registration
+* 🔐 Donor login
+* ❤️ Donation history
+* 📋 Request management
+* 👨‍💼 Admin controls
+* 🩸 Blood stock management
+* 🗄️ SQL database
 
 <a href="YOUR_BLOOD_DONATION_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blood Donation Source">
 </a>
-
-<a href="YOUR_BLOOD_DONATION_LIVE_LINK">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-00D9FF?style=for-the-badge">
-</a>
-
-</td>
-
-<td width="48%" align="center">
-
-<img
-src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
-width="200"
-alt="Blood Donation"
-/>
-
-<br><br>
-
-### ❤️ Every Drop Can Save a Life
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                    📊 GITHUB STATS                       -->
+<!--                    GITHUB ANALYSIS                        -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Analysis
 
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=abdul-18-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"
 width="48%"
-alt="GitHub Stats"
+alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=6"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-18-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"
 width="40%"
 alt="Top Languages"
 />
@@ -558,125 +195,44 @@ alt="Top Languages"
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=16"
+src="https://streak-stats.demolab.com?user=abdul-18-m&theme=tokyonight&hide_border=true&border_radius=12"
 width="60%"
 alt="GitHub Streak"
 />
 
 </div>
 
-<br>
-
 ---
 
 <!-- ========================================================= -->
 
-<!--                    📈 ACTIVITY                            -->
+<!--                    CURRENT LEARNING                       -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📈 Coding Activity
+## 🧠 Currently Learning
 
 <br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-18-m&theme=tokyo-night&hide_border=true&area=true&radius=12"
-width="95%"
-alt="Contribution Activity"
-/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" alt="Currently Learning">
+
+<br><br>
+
+**JavaScript** • **React** • **Node.js** • **Express.js** • **MongoDB**
+
+<br>
+
+Improving my frontend, backend and problem-solving skills through practical projects.
 
 </div>
-
-<br>
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                    🧠 CURRENT FOCUS                      -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧠 Currently Exploring
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=js" width="55">
-
-### JavaScript
-
-Deepening fundamentals
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=react" width="55">
-
-### React
-
-Building interfaces
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="55">
-
-### Node.js
-
-Backend development
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=express" width="55">
-
-### Express
-
-REST APIs
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="55">
-
-### MongoDB
-
-Database design
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning+Today+%E2%86%92+Building+Tomorrow+%F0%9F%9A%80"
-alt="Learning"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    🎯 GOALS                               -->
+<!--                         GOALS                             -->
 
 <!-- ========================================================= -->
 
@@ -684,110 +240,20 @@ alt="Learning"
 
 ## 🎯 2026 Goals
 
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Strengthen DSA**
-
-Become better at problem solving
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Master React**
-
-Build better interfaces
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend Skills**
-
-Build reliable APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Ship Projects**
-
-Turn ideas into products
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
-<br>
+* 🧠 Improve **DSA and problem-solving**
+* ⚛️ Become stronger with **React**
+* ⚙️ Build better **backend APIs**
+* 🗄️ Improve database knowledge
+* 🚀 Build and deploy more real-world projects
+* 💼 Start my professional software development career
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                    🏆 ACHIEVEMENTS                        -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<br>
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=abdul-18-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"
-alt="GitHub Achievements"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    🐍 SNAKE                               -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🐍 Contribution Journey
-
-<br>
-
-<img
-src="https://raw.githubusercontent.com/abdul-18-m/abdul-18-m/output/github-contribution-grid-snake.svg"
-width="95%"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    💭 PHILOSOPHY                         -->
+<!--                      PHILOSOPHY                           -->
 
 <!-- ========================================================= -->
 
@@ -797,82 +263,56 @@ alt="GitHub Contribution Snake"
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=1000&color=9B8CFF&center=true&vCenter=true&width=800&lines=Great+developers+don't+protect+their+code;%E2%86%92+They+improve+it."
-alt="Developer Philosophy"
-/>
-
-<br><br>
-
-**Learn • Build • Break • Debug • Improve**
-
-</div>
+> **"Great developers don't protect their code — they improve it."**
 
 <br>
+
+**Learn • Build • Debug • Improve**
+
+</div>
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                    🤝 CONNECT                             -->
+<!--                       CONNECT                             -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 🤝 Let's Connect
-
-<br>
-
-### Have an idea? Let's build something amazing together. 🚀
+## 🤝 Let's Connect
 
 <br>
 
 <a href="https://linkedin.com/in/abdul18">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/abdul.___.18">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://leetcode.com/abdul_mulla">
-<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 </div>
 
-<br><br>
+<br>
 
 ---
-
-<!-- ========================================================= -->
-
-<!--                    🌊 FOOTER                              -->
-
-<!-- ========================================================= -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&animation=twinkling"
-width="100%"
-alt="Footer"
-/>
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=550&lines=Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5"
+src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F172A,50:312E81,100:0F172A&animation=fadeIn"
+width="100%"
 alt="Footer"
 />
 
-<br><br>
+### ⭐ Thanks for visiting my profile!
 
-### ⭐ Thanks for visiting!
-
-**Made with ❤️ • Code • Curiosity • Consistency**
+**Code • Learn • Build • Improve 🚀**
 
 </div>
