@@ -64,8 +64,6 @@ alt="Profile Views"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    👨‍💻 ABOUT ME                          -->
@@ -74,7 +72,7 @@ alt="Profile Views"
 
 <div align="center">
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <br>
 
@@ -83,18 +81,23 @@ alt="Profile Views"
 
 <td width="60%" valign="top">
 
-I'm a passionate **Full Stack Developer** from India who enjoys building modern, responsive and user-friendly web applications.
+I'm a passionate Full Stack Developer from India who enjoys building modern, responsive and user-friendly web applications.
 
-I love transforming ideas into real-world projects and continuously improving my **development, problem-solving and DSA skills**.
+I love transforming ideas into real-world projects and continuously improving my development, problem-solving and DSA skills.
 
-### 🚀 What I'm Doing
+🚀 What I'm Doing
 
-* 🌱 Learning **Full Stack Development**
-* 💻 Building real-world web applications
-* 🧠 Practicing **DSA & Problem Solving**
-* 🎨 Improving **Frontend Development**
-* ⚙️ Exploring **Backend Development**
-* 📚 Learning something new every day
+🌱 Learning Full Stack Development
+
+💻 Building real-world web applications
+
+🧠 Practicing DSA & Problem Solving
+
+🎨 Improving Frontend Development
+
+⚙️ Exploring Backend Development
+
+📚 Learning something new every day
 
 </td>
 
@@ -128,8 +131,6 @@ alt="Developer Animation"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    ⚡ QUICK PROFILE                       -->
@@ -138,7 +139,7 @@ alt="Developer Animation"
 
 <div align="center">
 
-## ⚡ Quick Profile
+⚡ Quick Profile
 
 <br>
 
@@ -147,33 +148,33 @@ alt="Developer Animation"
 
 <td align="center" width="25%">
 
-### 💻
+💻
 
-**Full Stack Developer**
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎓
-
-**Computer Science Graduate**
+Full Stack Developer
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠
+🎓
 
-**DSA & Problem Solving**
+Computer Science Graduate
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
+🧠
 
-**Real-World Projects**
+DSA & Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+🚀
+
+Real-World Projects
 
 </td>
 
@@ -184,8 +185,6 @@ alt="Developer Animation"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🧭 DEVELOPER JOURNEY                   -->
@@ -194,7 +193,7 @@ alt="Developer Animation"
 
 <div align="center">
 
-## 🧭 Developer Journey
+🧭 Developer Journey
 
 <br>
 
@@ -205,7 +204,7 @@ alt="Developer Animation"
 
 🎓 <br>
 
-**Computer Science**
+Computer Science
 
 </td>
 
@@ -215,7 +214,7 @@ alt="Developer Animation"
 
 🌐 <br>
 
-**Web Development**
+Web Development
 
 </td>
 
@@ -225,7 +224,7 @@ alt="Developer Animation"
 
 🎨 <br>
 
-**Frontend**
+Frontend
 
 </td>
 
@@ -235,7 +234,7 @@ alt="Developer Animation"
 
 ⚙️ <br>
 
-**Backend**
+Backend
 
 </td>
 
@@ -245,7 +244,7 @@ alt="Developer Animation"
 
 🚀 <br>
 
-**Full Stack**
+Full Stack
 
 </td>
 
@@ -256,8 +255,6 @@ alt="Developer Animation"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🧰 TECH STACK                          -->
@@ -266,7 +263,7 @@ alt="Developer Animation"
 
 <div align="center">
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
 <br>
 
@@ -275,7 +272,7 @@ alt="Developer Animation"
 
 <td width="50%" valign="top">
 
-### 🌐 Frontend
+🌐 Frontend
 
 <br>
 
@@ -287,14 +284,14 @@ alt="Frontend Technologies"
 
 <br><br>
 
-**HTML5 • CSS3 • JavaScript**
-**Tailwind CSS • React**
+HTML5 • CSS3 • JavaScript
+Tailwind CSS • React
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Backend
+⚙️ Backend
 
 <br>
 
@@ -306,7 +303,7 @@ alt="Backend Technologies"
 
 <br><br>
 
-**Node.js • Express.js • Flask**
+Node.js • Express.js • Flask
 
 </td>
 
@@ -316,7 +313,7 @@ alt="Backend Technologies"
 
 <td width="50%" valign="top">
 
-### 🗄️ Databases
+🗄️ Databases
 
 <br>
 
@@ -328,13 +325,13 @@ alt="Database Technologies"
 
 <br><br>
 
-**MongoDB • PostgreSQL**
+MongoDB • PostgreSQL
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Programming Languages
+💻 Programming Languages
 
 <br>
 
@@ -346,7 +343,7 @@ alt="Programming Languages"
 
 <br><br>
 
-**C++ • Python • Java • JavaScript**
+C++ • Python • Java • JavaScript
 
 </td>
 
@@ -356,7 +353,7 @@ alt="Programming Languages"
 
 <td width="50%" valign="top">
 
-### 🛠️ Tools
+🛠️ Tools
 
 <br>
 
@@ -368,13 +365,13 @@ alt="Developer Tools"
 
 <br><br>
 
-**Git • GitHub • VS Code**
+Git • GitHub • VS Code
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔧 Development
+🔧 Development
 
 <br>
 
@@ -386,7 +383,7 @@ alt="Development Tools"
 
 <br><br>
 
-**Postman • npm**
+Postman • npm
 
 </td>
 
@@ -398,8 +395,6 @@ alt="Development Tools"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    💡 WHAT I BUILD                       -->
@@ -408,7 +403,7 @@ alt="Development Tools"
 
 <div align="center">
 
-## 💡 What I Build
+💡 What I Build
 
 <br>
 
@@ -417,9 +412,9 @@ alt="Development Tools"
 
 <td align="center" width="25%">
 
-### 🌐
+🌐
 
-**Web Applications**
+Web Applications
 
 Responsive & modern websites
 
@@ -427,9 +422,9 @@ Responsive & modern websites
 
 <td align="center" width="25%">
 
-### ⚛️
+⚛️
 
-**Frontend Interfaces**
+Frontend Interfaces
 
 Interactive user experiences
 
@@ -437,9 +432,9 @@ Interactive user experiences
 
 <td align="center" width="25%">
 
-### ⚙️
+⚙️
 
-**Backend APIs**
+Backend APIs
 
 Server-side applications
 
@@ -447,9 +442,9 @@ Server-side applications
 
 <td align="center" width="25%">
 
-### 🗄️
+🗄️
 
-**Database Systems**
+Database Systems
 
 Data-driven applications
 
@@ -462,8 +457,6 @@ Data-driven applications
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🚀 FEATURED PROJECTS                   -->
@@ -472,7 +465,7 @@ Data-driven applications
 
 <div align="center">
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <br>
 
@@ -500,32 +493,39 @@ alt="RailOne Project"
 
 <br><br>
 
-### 🚆 RailOne Ticket System
+🚆 RailOne Ticket System
 
 </td>
 
 <td width="55%" valign="top">
 
-## 🚆 RailOne Ticket Management System
+🚆 RailOne Ticket Management System
 
 A full-stack railway ticket management system designed to handle ticket-related operations through a simple and user-friendly web interface.
 
-### 🛠️ Technologies
+🛠️ Technologies
 
-`HTML5` `CSS3` `JavaScript`
+HTML5 CSS3 JavaScript
 
-`Node.js` `Express.js` `MongoDB`
+Node.js Express.js MongoDB
 
-### ✨ Features
+✨ Features
 
-* 🎫 Ticket Management
-* 🚆 Train & City Information
-* 💰 Fare Calculation
-* 🎟️ Journey & Platform Tickets
-* 💳 UPI QR Payment
-* 🧾 Receipt Generation
-* 📜 Booking History
-* 🗄️ MongoDB Database
+🎫 Ticket Management
+
+🚆 Train & City Information
+
+💰 Fare Calculation
+
+🎟️ Journey & Platform Tickets
+
+💳 UPI QR Payment
+
+🧾 Receipt Generation
+
+📜 Booking History
+
+🗄️ MongoDB Database
 
 <br>
 
@@ -557,26 +557,33 @@ alt="Live Demo"
 
 <td width="55%" valign="top">
 
-## 🩸 Blood Donation Management System
+🩸 Blood Donation Management System
 
-A web-based blood donation management system designed to manage **blood donors and donation records** efficiently.
+A web-based blood donation management system designed to manage blood donors and donation records efficiently.
 
-### 🛠️ Technologies
+🛠️ Technologies
 
-`HTML5` `CSS3` `JavaScript`
+HTML5 CSS3 JavaScript
 
-`Flask` `SQL`
+Flask SQL
 
-### ✨ Features
+✨ Features
 
-* 🩸 Donor Registration
-* 🔐 Donor Login
-* ❤️ Donation History
-* 📋 Pending / Approved / Rejected
-* 👨‍💼 Admin Management
-* 🩸 Blood Stock Management
-* 🗄️ SQL Database
-* ⚡ Flask Backend
+🩸 Donor Registration
+
+🔐 Donor Login
+
+❤️ Donation History
+
+📋 Pending / Approved / Rejected
+
+👨‍💼 Admin Management
+
+🩸 Blood Stock Management
+
+🗄️ SQL Database
+
+⚡ Flask Backend
 
 <br>
 
@@ -606,7 +613,7 @@ alt="Blood Donation Project"
 
 <br><br>
 
-### ❤️ Every Drop Can Save a Life
+❤️ Every Drop Can Save a Life
 
 </td>
 
@@ -615,15 +622,15 @@ alt="Blood Donation Project"
 
 <br>
 
----
-
 <!-- ========================================================= -->
+
 <!--                📊 TOP LANGUAGES & SKILLS                 -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📊 Top Languages & Skills
+📊 Top Languages & Skills
 
 <br>
 
@@ -631,26 +638,32 @@ alt="Blood Donation Project"
 <tr>
 <td width="50%">
 
-### 🟨 JavaScript
+🟨 JavaScript
+
 <img src="https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### ⚛️ React.js
+⚛️ React.js
+
 <img src="https://img.shields.io/badge/React.js-90%25-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
 
-### 🧠 DSA
+🧠 DSA
+
 <img src="https://img.shields.io/badge/DSA-70%25-ff6f00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </td>
 
 <td width="50%">
 
-### 🌐 HTML
+🌐 HTML
+
 <img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-### 🎨 CSS
+🎨 CSS
+
 <img src="https://img.shields.io/badge/CSS-90%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### 🐍 Python
+🐍 Python
+
 <img src="https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 
 </td>
@@ -660,8 +673,6 @@ alt="Blood Donation Project"
 <br>
 
 </div>
-
----
 
 <!-- GITHUB STREAK -->
 
@@ -677,8 +688,6 @@ alt="GitHub Streak"
 
 
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🧠 CURRENTLY LEARNING                 -->
@@ -687,7 +696,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-## 🧠 Currently Learning
+🧠 Currently Learning
 
 <br>
 
@@ -702,7 +711,7 @@ width="60"
 alt="JavaScript"
 />
 
-### JavaScript
+JavaScript
 
 Deepening fundamentals
 
@@ -716,7 +725,7 @@ width="60"
 alt="React"
 />
 
-### React
+React
 
 Building interfaces
 
@@ -730,7 +739,7 @@ width="60"
 alt="Node.js"
 />
 
-### Node.js
+Node.js
 
 Backend development
 
@@ -744,7 +753,7 @@ width="60"
 alt="Express"
 />
 
-### Express
+Express
 
 REST APIs
 
@@ -758,7 +767,7 @@ width="60"
 alt="MongoDB"
 />
 
-### MongoDB
+MongoDB
 
 Database development
 
@@ -778,8 +787,6 @@ alt="Learning"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🎯 2026 GOALS                          -->
@@ -788,7 +795,7 @@ alt="Learning"
 
 <div align="center">
 
-## 🎯 Goals
+🎯 Goals
 
 <br>
 
@@ -797,9 +804,9 @@ alt="Learning"
 
 <td align="center" width="25%">
 
-### 🧠
+🧠
 
-**DSA**
+DSA
 
 Improve problem solving
 
@@ -807,9 +814,9 @@ Improve problem solving
 
 <td align="center" width="25%">
 
-### ⚛️
+⚛️
 
-**React**
+React
 
 Build better UIs
 
@@ -817,9 +824,9 @@ Build better UIs
 
 <td align="center" width="25%">
 
-### ⚙️
+⚙️
 
-**Backend**
+Backend
 
 Build reliable APIs
 
@@ -827,9 +834,9 @@ Build reliable APIs
 
 <td align="center" width="25%">
 
-### 🚀
+🚀
 
-**Projects**
+Projects
 
 Ship real products
 
@@ -842,11 +849,7 @@ Ship real products
 
 <br>
 
----
 
-
-
----
 
 
 
@@ -858,15 +861,15 @@ Ship real products
 
 <div align="center">
 
-## 💭 Developer Philosophy
+💭 Developer Philosophy
 
 <br>
 
-> ### "Great developers don't protect their code — they improve it."
+"Great developers don't protect their code — they improve it."
 
 <br>
 
-**Learn • Build • Debug • Improve**
+Learn • Build • Debug • Improve
 
 <br>
 
@@ -879,8 +882,6 @@ alt="Developer Philosophy"
 
 <br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🤝 CONNECT                             -->
@@ -889,11 +890,11 @@ alt="Developer Philosophy"
 
 <div align="center">
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <br>
 
-### 💬 Let's build something amazing together!
+💬 Let's build something amazing together!
 
 <br>
 
@@ -929,8 +930,6 @@ alt="Email"
 
 <br><br>
 
----
-
 <!-- ========================================================= -->
 
 <!--                    🌊 FOOTER                              -->
@@ -952,11 +951,8 @@ alt="Footer Animation"
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-**Made with ❤️ • Code • Curiosity • Consistency**
+Made with ❤️ • Code • Curiosity • Consistency
 
 </div>
-
-
-in this code there is not showing the my languages logog make it to show it
