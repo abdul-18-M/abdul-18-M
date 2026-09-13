@@ -1,24 +1,32 @@
 <!-- ========================================================= -->
 
-<!--                     HERO SECTION                          -->
+<!--                  🌌 HERO SECTION                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDUL%20MULLA&fontSize=52&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=0:0F172A,50:312E81,100:0F172A"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=48&fontColor=ffffff&fontAlignY=35&font=Montserrat&animation=fadeIn&color=0:0F172A,50:312E81,100:0F172A"
 width="100%"
+alt="Welcome to my profile"
+/>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=120&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&repeat=true&lines=Abdul+Mulla"
 alt="Abdul Mulla"
 />
 
-<h2>Full Stack Developer 💻</h2>
-
-<p>
-Building modern web applications with clean code, practical solutions and continuous learning.
-</p>
-
 <br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=Full+Stack+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0"
+alt="Developer Roles"
+/>
+
+<br><br>
 
 <a href="https://github.com/abdul-18-m">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -45,7 +53,7 @@ alt="Profile Views"
 
 <!-- ========================================================= -->
 
-<!--                       ABOUT ME                            -->
+<!--                     👨‍💻 ABOUT ME                         -->
 
 <!-- ========================================================= -->
 
@@ -55,22 +63,51 @@ alt="Profile Views"
 
 </div>
 
-Hi, I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
+<table>
+<tr>
 
-I enjoy building useful and responsive web applications while learning how frontend, backend and databases work together.
+<td width="62%" valign="top">
 
-* 💻 Interested in **Full Stack Development**
+### Hey there! 👋
+
+I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
+
+I enjoy building useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
+
+### 🚀 What I'm Focused On
+
+* 💻 Full Stack Web Development
 * 🌐 Building modern web applications
-* 🧠 Practicing **DSA and problem solving**
-* ⚛️ Learning and improving **React**
-* ⚙️ Working with backend APIs and databases
-* 🚀 Turning ideas into practical projects
+* ⚛️ Learning and improving React
+* ⚙️ Building backend APIs
+* 🗄️ Working with databases
+* 🧠 Practicing DSA and problem solving
+* 🚀 Turning ideas into real-world projects
+
+</td>
+
+<td width="38%" align="center">
+
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="330"
+alt="Coding Animation"
+/>
+
+<br><br>
+
+<sub>💻 Building • Debugging • Improving</sub>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                     TECH STACK                            -->
+<!--                    🧰 TECH STACK                          -->
 
 <!-- ========================================================= -->
 
@@ -80,25 +117,25 @@ I enjoy building useful and responsive web applications while learning how front
 
 <br>
 
-### Frontend
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies">
 
 <br><br>
 
-### Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 
 <br><br>
 
-### Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Database Technologies">
 
 <br><br>
 
-### Languages & Tools
+### 💻 Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="Languages and Tools">
 
@@ -108,7 +145,7 @@ I enjoy building useful and responsive web applications while learning how front
 
 <!-- ========================================================= -->
 
-<!--                    FEATURED PROJECTS                      -->
+<!--                   🚀 FEATURED PROJECTS                    -->
 
 <!-- ========================================================= -->
 
@@ -116,7 +153,14 @@ I enjoy building useful and responsive web applications while learning how front
 
 ## 🚀 Featured Projects
 
+<br>
+
 </div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🚆 RailOne Ticket System
 
@@ -124,14 +168,15 @@ A full-stack railway ticket management application designed to simplify railway 
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+`HTML` `CSS` `JavaScript`
+`Node.js` `Express.js` `MongoDB`
 
 **Features**
 
 * 🎫 Ticket management
-* 🚆 Train and city information
+* 🚆 Train & city information
 * 💰 Fare calculation
-* 🎟️ Journey and platform tickets
+* 🎟️ Journey & platform tickets
 * 💳 UPI QR payment
 * 🧾 Receipt generation
 * 📜 Booking history
@@ -140,9 +185,37 @@ A full-stack railway ticket management application designed to simplify railway 
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="RailOne Source">
 </a>
 
-<br><br>
+</td>
 
----
+<td width="50%" align="center">
+
+<img
+src="https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1000&q=80"
+width="100%"
+alt="RailOne Railway Project"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
+width="220"
+alt="Blood Donation"
+/>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🩸 Blood Donation Management System
 
@@ -150,7 +223,8 @@ A web application for managing blood donors, donation records and blood stock.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Flask` `SQL`
+`HTML` `CSS` `JavaScript`
+`Flask` `SQL`
 
 **Features**
 
@@ -166,11 +240,16 @@ A web application for managing blood donors, donation records and blood stock.
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blood Donation Source">
 </a>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
 <!-- ========================================================= -->
 
-<!--                    GITHUB ANALYSIS                        -->
+<!--                    📊 GITHUB ANALYSIS                     -->
 
 <!-- ========================================================= -->
 
@@ -206,7 +285,7 @@ alt="GitHub Streak"
 
 <!-- ========================================================= -->
 
-<!--                    CURRENT LEARNING                       -->
+<!--                    🧠 CURRENTLY LEARNING                  -->
 
 <!-- ========================================================= -->
 
@@ -222,7 +301,7 @@ alt="GitHub Streak"
 
 **JavaScript** • **React** • **Node.js** • **Express.js** • **MongoDB**
 
-<br>
+<br><br>
 
 Improving my frontend, backend and problem-solving skills through practical projects.
 
@@ -232,7 +311,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                         GOALS                             -->
+<!--                       🎯 GOALS                            -->
 
 <!-- ========================================================= -->
 
@@ -240,20 +319,24 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 ## 🎯 2026 Goals
 
+<br>
+
 </div>
 
-* 🧠 Improve **DSA and problem-solving**
-* ⚛️ Become stronger with **React**
-* ⚙️ Build better **backend APIs**
-* 🗄️ Improve database knowledge
-* 🚀 Build and deploy more real-world projects
-* 💼 Start my professional software development career
+| Goal          | Focus                                             |
+| ------------- | ------------------------------------------------- |
+| 🧠 DSA        | Improve problem-solving skills                    |
+| ⚛️ React      | Build better frontend applications                |
+| ⚙️ Backend    | Build reliable APIs                               |
+| 🗄️ Databases | Improve database knowledge                        |
+| 🚀 Projects   | Build more real-world applications                |
+| 💼 Career     | Start my professional software development career |
 
 ---
 
 <!-- ========================================================= -->
 
-<!--                      PHILOSOPHY                           -->
+<!--                    💭 PHILOSOPHY                          -->
 
 <!-- ========================================================= -->
 
@@ -275,7 +358,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <!-- ========================================================= -->
 
-<!--                       CONNECT                             -->
+<!--                    🤝 CONNECT                             -->
 
 <!-- ========================================================= -->
 
@@ -302,6 +385,12 @@ Improving my frontend, backend and problem-solving skills through practical proj
 <br>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                       🌊 FOOTER                           -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
