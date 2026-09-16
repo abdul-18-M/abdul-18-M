@@ -304,7 +304,7 @@ Improving my frontend, backend and problem-solving skills through practical proj
 
 <div align="center">
 
-## 🎯 2026 Goals
+## 🎯 2027 Goals
 
 <br>
 
