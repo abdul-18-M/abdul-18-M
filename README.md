@@ -56,7 +56,7 @@ alt="Profile Views"
 
 ### Hey there! 👋
 
-I'm **Abdul Mulla**, a **Full Stack Developer** and Computer Science graduate from India.
+I'm **Abdul Mulla**, a **Full Stack Developer** and Bsc (Computer Science) graduate from India.
 
 I enjoy building useful, responsive and interactive web applications while continuously improving my development and problem-solving skills.
 
