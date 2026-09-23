@@ -79,33 +79,8 @@ I enjoy building useful, responsive and interactive web applications while conti
 
 # 👨‍💻 Night Coding Session
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=while(true){+code++;};+;MERN+Stack+Developer;Coffee+%26+Code;Keep+Building...)
+![Coding Animation](assets/coding.gif)
 
----
-
-## 🌌 Workspace Mood
-- Hoodie + glasses = focus mode 🔥  
-- Dual monitors glowing with code  
-- Coffee steaming ☕ powering the grind  
-- Plant + lamp = chill vibes 🌱💡  
-- Toy dog watching over 🐶  
-
----
-
-## 🚀 Tech Stack
-- MongoDB  
-- Express.js  
-- React.js  
-- Node.js  
-
----
-
-## 🎬 Animated Scene
-Imagine:  
-- Boy typing rapidly on the keyboard  
-- Code scrolling across the monitors  
-- Blue glow lighting up the room  
-- Coffee steam rising in sync with keystrokes  
 
 
 <br><br>
