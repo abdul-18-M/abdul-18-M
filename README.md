@@ -23,10 +23,9 @@ alt="Hi, I'm Abdul Mulla"
 
 <p align="center">
   <img 
-    src="./assets/anime-boy-late-night-coding.gif"
-    width="100%"
-    alt="Abdul Mulla - Late Night Coding"
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;DSA+Problem+Solver"
+  alt="Typing Roles"
+/>
 </p>
 
 <br><br>
