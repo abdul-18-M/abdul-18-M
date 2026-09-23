@@ -77,11 +77,7 @@ I enjoy building useful, responsive and interactive web applications while conti
 
 <td width="38%" align="center">
 
-<img
-  src="https://thumbs.dreamstime.com/b/animated-young-man-wearing-glasses-intensely-focused-coding-his-laptop-desk-scene-set-night-464518800.jpg"
-  width="600"
-  alt="Late Night Coding"
-/>
+<img src="https://assets10.lottiefiles.com/packages/lf20_coding.json.gif" width="330" alt="React Coding Animation" />
 
 <br><br>
 
