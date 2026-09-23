@@ -86,13 +86,20 @@ I enjoy building useful, responsive and interactive web applications while conti
 </p>
 
 <p align="center">
-  <samp>💻 Code → 🐛 Debug → 🚀 Build → 🔁 Repeat</samp>
+  <samp style="font-family: 'Fira Code', monospace; font-size: 22px; font-weight: bold; color:#00D9FF;">
+    💻 Code → 🐛 Debug → 🚀 Build → 🔁 Repeat
+  </samp>
 </p>
+
 <br><br>
 
 <p align="center">
-<sub>• Improving</sub>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="22" alt="Improving Logo" />
+  <sub style="font-family: 'Poppins', sans-serif; font-size: 18px; font-weight: 600; color:#00FF88;">
+    • Improving
+  </sub>
 </p>
+
 
 </td>
 
