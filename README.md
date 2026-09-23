@@ -94,11 +94,14 @@ I enjoy building useful, responsive and interactive web applications while conti
 <br><br>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="22" alt="Improving Logo" style="vertical-align: middle;"/>
-  <sub style="font-family: 'Poppins', sans-serif; font-size: 38px; font-weight: 800; color:#00FF88; margin-left:6px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="0" alt="Hidden" /> <!-- old logo removed -->
+
+  <img src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png" width="32" alt="Learning Logo" style="vertical-align: middle;"/>
+  <sub style="font-family: 'Montserrat', sans-serif; font-size: 32px; font-weight: 700; color:#00FF88; margin-left:8px;">
     Improving
   </sub>
 </p>
+
 
 
 
