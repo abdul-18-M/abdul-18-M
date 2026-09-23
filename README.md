@@ -90,8 +90,9 @@ I enjoy building useful, responsive and interactive web applications while conti
 </p>
 <br><br>
 
-
-<sub>💻 Building • Debugging • Improving</sub>
+<p align="center">
+<sub>• Improving</sub>
+</p>
 
 </td>
 
