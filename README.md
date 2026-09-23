@@ -75,9 +75,9 @@ I enjoy building useful, responsive and interactive web applications while conti
 <td width="38%" align="center">
 
 <img
-  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95"
-  width="500"
-  alt="Coding on Laptop"
+  src="https://thumbs.dreamstime.com/b/animated-young-man-wearing-glasses-intensely-focused-coding-his-laptop-desk-scene-set-night-464518800.jpg"
+  width="600"
+  alt="Late Night Coding"
 />
 
 <br><br>
