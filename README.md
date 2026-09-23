@@ -86,12 +86,6 @@ I enjoy building useful, responsive and interactive web applications while conti
 </p>
 
 <p align="center">
-  <samp>
-    ────[ NIGHT CODING SESSION ]────
-  </samp>
-</p>
-
-<p align="center">
   <samp>💻 Code → 🐛 Debug → 🚀 Build → 🔁 Repeat</samp>
 </p>
 <br><br>
