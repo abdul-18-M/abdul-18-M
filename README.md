@@ -22,9 +22,10 @@ alt="Hi, I'm Abdul Mulla"
 <br>
 
 <p align="center">
-  <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;DSA+Problem+Solver"
+ <img 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;DSA+Problem+Solver"
   alt="Typing Roles"
+/>
 />
 </p>
 
