@@ -75,9 +75,9 @@ I enjoy building useful, responsive and interactive web applications while conti
 <td width="38%" align="center">
 
 <img
-  src="./assets/anime-boy-coding.gif"
+  src="./assets/anime-coding.gif"
   width="500"
-  alt="Late Night Anime Coding"
+  alt="Anime Coding"
 />
 
 <br><br>
