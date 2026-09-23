@@ -14,10 +14,7 @@ alt="Welcome to my profile"
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=100&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&repeat=false&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdul+Mulla"
-alt="Hi, I'm Abdul Mulla"
-/>
+<img src="https://assets10.lottiefiles.com/packages/lf20_coding.json.gif" width="330" alt="React Coding Animation" />
 
 <br>
 
