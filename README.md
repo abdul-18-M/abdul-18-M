@@ -75,9 +75,9 @@ I enjoy building useful, responsive and interactive web applications while conti
 <td width="38%" align="center">
 
 <img
-  src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"
+  src="YOUR_ANIME_CODING_GIF_URL"
   width="330"
-  alt="Programming Animation"
+  alt="Late Night Coding"
 />
 
 <br><br>
