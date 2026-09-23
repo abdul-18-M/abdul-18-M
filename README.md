@@ -24,7 +24,7 @@ alt="Hi, I'm Abdul Mulla"
 <p align="center">
  
 <img 
-  src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E%5F+%F0%9F%92%BB+FULL+STACK+DEVELOPER;%3E%5F+%F0%9F%96%A5%EF%B8%8F+FRONTEND+DEVELOPER;%3E%5F+%F0%9F%94%A7+BACKEND+DEVELOPER;%3E%5F+%F0%9F%A7%A0+DSA+PROBLEM+SOLVER"
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=%3E+%F0%9F%92%BB+FULL+STACK+DEVELOPER;%3E+%F0%9F%96%A5%EF%B8%8F+FRONTEND+DEVELOPER;%3E+%F0%9F%94%A7+BACKEND+DEVELOPER;%3E+%F0%9F%A7%A0+DSA+PROBLEM+SOLVER"
   alt="Developer Roles"
 />
 </p>
