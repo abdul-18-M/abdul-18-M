@@ -79,8 +79,8 @@ I enjoy building useful, responsive and interactive web applications while conti
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="380"
+    src="https://images.stockcake.com/public/a/f/a/afa0b83b-dda3-4e5a-b0f5-0056fec8a7b9/code-night-glow-stockcake.jpg"
+    width="450"
     alt="Night Coding"
   />
 </p>
