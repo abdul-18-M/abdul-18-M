@@ -77,8 +77,23 @@ I enjoy building useful, responsive and interactive web applications while conti
 
 <td width="38%" align="center">
 
-<img src="https://assets10.lottiefiles.com/packages/lf20_coding.json.gif" width="330" alt="React Coding Animation" />
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="380"
+    alt="Night Coding"
+  />
+</p>
 
+<p align="center">
+  <samp>
+    ────[ NIGHT CODING SESSION ]────
+  </samp>
+</p>
+
+<p align="center">
+  <samp>💻 Code → 🐛 Debug → 🚀 Build → 🔁 Repeat</samp>
+</p>
 <br><br>
 
 
