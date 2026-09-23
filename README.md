@@ -14,7 +14,10 @@ alt="Welcome to my profile"
 
 <br>
 
-<img src="https://assets10.lottiefiles.com/packages/lf20_coding.json.gif" width="330" alt="React Coding Animation" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=100&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&repeat=false&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdul+Mulla"
+alt="Hi, I'm Abdul Mulla"
+/>
 
 <br>
 
@@ -74,11 +77,11 @@ I enjoy building useful, responsive and interactive web applications while conti
 
 <td width="38%" align="center">
 
-# 👨‍💻 Night Coding Session
-
-![Coding Animation](assets/coding.gif)
-
-
+<img
+  src="https://thumbs.dreamstime.com/b/animated-young-man-wearing-glasses-intensely-focused-coding-his-laptop-desk-scene-set-night-464518800.jpg"
+  width="600"
+  alt="Late Night Coding"
+/>
 
 <br><br>
 
