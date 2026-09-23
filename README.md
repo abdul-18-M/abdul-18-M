@@ -21,10 +21,13 @@ alt="Hi, I'm Abdul Mulla"
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&repeat=true&lines=Full+Stack+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0"
-alt="Developer Roles"
-/>
+<p align="center">
+  <img 
+    src="./assets/anime-boy-late-night-coding.gif"
+    width="100%"
+    alt="Abdul Mulla - Late Night Coding"
+  />
+</p>
 
 <br><br>
 
